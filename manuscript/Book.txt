@@ -1,4 +1,4 @@
-Introduction.md
-Setting up the space.md
-Working in your first mob.md
+01_Introduction.md
+02_Setting up the space.md
+03_Working in your first mob.md
 Mobbing with an audience.md
