@@ -12,4 +12,4 @@ As the mob starts to connect and a whole team emerges, you will start to move in
 
 ## Advanced mode
 
-Disregard the steps. Just turn up the good. Pay attention to subtleties of your team and the lessons of the retrospectives. At this point, the book has served its purpose and is only here to remind you of some of the foundational principles. Now is the time to create your own way of working together. 
+Disregard the steps. Just turn up the good. Pay attention to subtleties of your team and the lessons of the retrospectives. At this point, the book has served its purpose and is only here to remind you of some of the foundational principles. Now is the time to create your own way of working together.
