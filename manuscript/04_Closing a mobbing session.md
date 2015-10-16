@@ -67,7 +67,7 @@ For sticky notes, it is also important to have good markers to write with. We su
 
 ## Collecting observations
 
-When you ask for observations, if you just say "give me any observations", then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas observations come come from. This of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, I will often say something like "Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."
+When you ask for observations, if you just say "give me any observations", then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas that observations can come from. This of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, I will often say something like "Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."
 
 After you ask for observations, you want to give enough time for everyone to write them down. I usually try to count to twenty in my head after I have stopped hearing anybody write.
 

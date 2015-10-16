@@ -27,3 +27,5 @@ Guidelines for 1st seesion. timing ending.
 We're always talking to the facilitator.
 
 How to contribute as a non-progremmer
+
+add info graphic about mobprogramming best of 
