@@ -61,6 +61,36 @@ While each of these rules is simple, notice that when taken together the green s
 > Lazy person fact #6543686714283  
 You were too lazy to read that number
 
-For sticky notes, it is also important to have good markers to write with. We suggest Sharpies. 
+For sticky notes, it is also important to have good markers to write with. We suggest Sharpies.
 
 <i>Pictures used from Google image search labeled for reuse. The last picture of sticky notes is from Michael Sahota. </i>
+
+## Collecting observations
+
+When you ask for observations, if you just say "give me any observations", then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas observations come come from. This of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, I will often say something like "Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."
+
+After you ask for observations, you want to give enough time for everyone to write them down. I usually try to count to twenty in my head after I have stopped hearing anybody write.
+
+Collect all the sticky notes and bring them up to the whiteboard. It's time to start reading observations.
+
+## Reading observations
+
+Mainly you are just going to read the observations out loud and place them on the whiteboard to allow for groupings to emerge.
+
+Here are a couple of key things to remember.
+  * Use your whole space.  
+  * If you do not have enough space for the amount of stickies, don't worry. Just read them our loud and don't worry about the groupings.
+  * If there is any confusion, this is the time to ask for clarification.
+  * If you feel there is something to add or compliment or even dispel, you can do that while reading the sticky.
+  * If a sticky opens a larger discussion, place it to the side and return to it after going through all the stickies.
+  * After everything is done, it can be useful to circle 3-4 groups that have emerged.
+
+## Final thoughts
+
+The entire observation period should take 15 minutes on average. It is important to plan for that time as it is easy to run over and skip it if you don't.
+
+If you are mobbing for a full day, we recommend two observations retrospectives, one before lunch and one at the end of the day.
+
+When retrospectives are frequent and short, the outcomes from them are small. But those small outcomes are usually acted upon. When they are long and infrequent, you get big outcomes that are ignored.
+
+In your first retrospectives, don't expect a lot of observations. Like everything else, it takes time to build the habit of noticing what is going on. Part of the reason to do regular retrospectives, is to build the metacognition abilities of your team. Once those are built, you might notice people making observations while the mobbing is happening and even writing them down. At this point you might be tempted to abandon the retrospective all together, as it is no longer needed. Don't. If you do, you have to rebuild that skill up after the habit fades away.
