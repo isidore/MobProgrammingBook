@@ -25,7 +25,7 @@ There are four parts to this explanation that I normally do:
 
 ### Selective attention
 
-(We usually show this video: )  
+(We usually show this video: youtube search: Selective attention )  
 Take a look at these two pictures.   
 ![Spot the difference](images/Spot_the_difference.png)
 
@@ -33,7 +33,7 @@ You might notice a few things that are different. And you might think the things
 
 ### Expectation biases
 
-(We usually show this video: )  
+(We usually show this video: youtube search: Faa Baa )  
 Look at this picture.   
 ![Moving illusion](images/Moving_illusion.png)
 
@@ -43,8 +43,8 @@ Our expectations and biases mean that we see and hear things that might not have
 
 ### Single perspective
 
-(We usually show this video: )  
-Here's another picture.
+(We usually show this video: youtube search: assumptions)  
+Here's another picture.  
 ![Forced perspective](images/forced_perpective.jpg)
 
 What you are seeing is a trick called forced perspective. When you only have one viewpoint, it is easy to be mislead. Everybody is vulnerable to this because everybody experiences things from a single perspective. But we have multiple perspectives in the room when we mob. By taking collective observations, we reduce the chance of being fooled by a single perspective and get a better understanding of the full reality.
