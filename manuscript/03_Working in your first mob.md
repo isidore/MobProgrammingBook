@@ -1,8 +1,11 @@
 # Working in Your First Mob
 
+![Mob Programming](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/MobProgramming.jpg)
+
 ## Heuristic
 
 If everything is going right, rotation will not disrupt the direction which the mob is going.
+
 
 ## Preparing the navigator
 
