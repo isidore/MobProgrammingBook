@@ -1,6 +1,6 @@
 # Working in Your First Mob
 
-![Mob Programming](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/MobProgramming.jpg)
+![Mob Programming](images/MobProgramming.jpg)
 
 ## Heuristic
 

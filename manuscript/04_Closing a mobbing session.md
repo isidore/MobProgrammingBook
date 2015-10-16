@@ -27,7 +27,7 @@ There are four parts to this explanation that I normally do:
 
 (We usually show this video: )  
 Take a look at these two pictures.   
-![Spot the difference](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/Spot_the_difference.png)
+![Spot the difference](images/Spot_the_difference.png)
 
 You might notice a few things that are different. And you might think the things you notice are obvious. But if you have a group write down the things, each one will see things the other one doesn't. No one knows which ones are obvious to them and not obvious to someone else. This is why we ask all your observations, no matter how obvious they are. Everyone misses a lot of things right in front of their eyes.
 
@@ -35,7 +35,7 @@ You might notice a few things that are different. And you might think the things
 
 (We usually show this video: )  
 Look at this picture.   
-![Moving illusion](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/Moving_illusion.png)
+![Moving illusion](images/Moving_illusion.png)
 
 As you look at the picture, you might notice it moving or that it's spiraling. It is doing neither. However, while many people think of our eyes as cameras and our ears as microphones, what we experience as sight and sound is really put together in the visual and auditory cortexes of our brains. And this is a lot more akin to photoshop.
 
@@ -45,7 +45,7 @@ Our expectations and biases mean that we see and hear things that might not have
 
 (We usually show this video: )  
 Here's another picture.
-![Forced perspective](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/forced_perpective.jpg)
+![Forced perspective](images/forced_perpective.jpg)
 
 What you are seeing is a trick called forced perspective. When you only have one viewpoint, it is easy to be mislead. Everybody is vulnerable to this because everybody experiences things from a single perspective. But we have multiple perspectives in the room when we mob. By taking collective observations, we reduce the chance of being fooled by a single perspective and get a better understanding of the full reality.
 
@@ -54,7 +54,7 @@ What you are seeing is a trick called forced perspective. When you only have one
 On our list of cognitive biases is rationalization. There are many simple things that I have learned long enough ago that I forgot I ever learned them. When faced with knowledge and no memory of acquiring that knowledge, it is rational to assume that I always knew it and that is just another aspect of common sense.
 
 How do you write sticky notes is one such simple task that often falls prey for this rationalization. Here's what you need to know.   
-![Sticky notes](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/4_rules_of_sticky_notes.png)
+![Sticky notes](images/4_rules_of_sticky_notes.png)
 
 While each of these rules is simple, notice that when taken together the green side is much easier to read than the orange side. And because humans engage in fight or flight responses, most people, when faced with the challenge of reading the orange side, instead choose to skim over or zone out. Following these four simple rules helps to ensure that our observations get read.
 
