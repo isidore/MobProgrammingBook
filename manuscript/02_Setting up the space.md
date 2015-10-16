@@ -6,7 +6,7 @@ Note: If you are doing this with more than ten people, please check out the mobb
 
 ## Basic Setup
 
-![Mob Programming Setup](https://raw.githubusercontent.com/maaretp/MobProgrammingBook/master/manuscript/images/MobProgrammingSetup.png)
+![Mob Programming Setup](images/MobProgrammingSetup.png)
 
 ## The Screen
 
