@@ -28,4 +28,12 @@ We're always talking to the facilitator.
 
 How to contribute as a non-progremmer
 
-add info graphic about mobprogramming best of 
+add info graphic about mobprogramming best of
+
+
+Anti-patterns
+Newbies and experts mixing in a mob
+Cellphone practice
+Jumping in to navigate to introduce concepts
+
+What if we have personalized IDEs
