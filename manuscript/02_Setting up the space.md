@@ -2,7 +2,7 @@
 
 For your first mob, you do not need to worry too much about the space. We're going to lay out just the most critical things that are helpful.
 
-Note: If you are doing this with more than ten people, please check out the mobbing with an audience -chapter.
+Note: If you are doing this with more than ten people, please check out the chapter <i>mobbing with an audience</i>.
 
 ## Basic Setup
 

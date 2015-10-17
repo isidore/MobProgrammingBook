@@ -4,7 +4,7 @@ This is a recipe book for how to create a great and collaborative mob. Too often
 
 ## Beginner mode
 
-In the beginning follow each step very specifically. Some of them will seem weird, counterintuitive or just wrong. Don't worry about that yet. While many people need 20-40 iterations in this mode, before they are ready to advance. We highly suggest you do a minimum of five times before advancing. This will give you a foundation to build on.
+In the beginning follow each step very specifically. Some of them will seem weird, counterintuitive or just wrong. Don't worry about that yet. Many people need 20-40 iterations in this mode before they are ready to advance. You may need less. However, we suggest you do a minimum of five times before advancing. This will give you a foundation to build on.
 
 ## Intermediate mode
 
