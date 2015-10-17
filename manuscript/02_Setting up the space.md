@@ -12,7 +12,7 @@ Note: If you are doing this with more than ten people, please check out the chap
 
 The screen, projector or TV should be visible and clear to everybody in the mob. The chairs should be facing forward towards the screen as much as possible. People will need to stand up and move around frequently, so there should be enough room to do so comfortably. It is not helpful to have backpacks and laptops during this. Usually we put bags in the corner of the room. However, if people are uncomfortable with this, it's not a big deal.
 
-It is also important to have a whiteboard where people the navigator can express ideas.
+It is also important to have a whiteboard where the navigator can express ideas.
 
 ## The Facilitator
 
@@ -30,7 +30,7 @@ There are three common items to work on as your first task.
 
 2. Refactoring large methods
 
-   Many times teams have code that is hard to read. A refactoring for readability exercise makes a great first experience in mobbing. Simply choose a method that everyone agrees is troublesome and/or you are going to work with soon anyways. When you do this exercise, we suggest starting with the simple extraction of paragraphs of code and giving them better names. The only two refactorings we suggest are extract method and rename. We also suggest that you commit frequently, usually after each paragraph.
+   Many times teams have code that is hard to read. A refactoring for readability exercise makes a great first experience in mobbing. Simply choose a method that everyone agrees is troublesome and you are going to work with soon anyways. When you do this exercise, we suggest starting with the simple extraction of paragraphs of code and giving them better names. The only two refactorings we suggest are extract method and rename. We also suggest that you commit frequently, usually after each paragraph.
 
 3. Programming Katas
 
