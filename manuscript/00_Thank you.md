@@ -8,5 +8,5 @@ Thank you.
 
 Llewellyn Falco & Maaret Pyh&auml;j&auml;rvi
 
-isidore@setgame.com
+isidore@setgame.com  
 maaret@iki.fi
