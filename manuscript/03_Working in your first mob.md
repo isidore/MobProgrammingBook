@@ -28,7 +28,7 @@ Has direction:
 **A**: The code does not compile. We need to fix that.  
 **A**: We need to write the test for handling positive numbers.  
 **A**: I'd like to give that paragraph a better name.  
-**A**: We haven't checked in in a while.  
+**A**: We haven't checked in the code for a while, let's do that.  
 
 Sometimes you can get to a direction through a series of questions. For example:
 
@@ -45,9 +45,9 @@ Sometimes you can get to a direction through a series of questions. For example:
 
 ### Examples
 
-If you are working on a task or doing test-first development, it is very useful to have an example written on a whiteboard. The examples should be very simple, and only show one path at a time. This means of conditional words like "or" or "if". If there is an example, it might take many turns before its finished, and having it on the board will give guidance for the whole team on what they need to do.
+If you are working on a task or doing test-first development, it is very useful to have an example written on a whiteboard. The examples should be very simple, and only show one path at a time. This means of you can **not** use conditional words like "or", "if", "depending", or "maybe". If there is an example, it might take many turns before its finished, and having it on the board will give guidance for the whole team on what they need to do as each new navigator takes over and continues on the task.
 
-Examples should make you feel like the person telling the example actually did the thing yesterday. Imagine a teenager talking to her parent.   
+Examples should make you feel like the person telling the example actually did the thing yesterday. Imagine a teenager talking to thier parent.   
 "What did you do last night?"   
 "I went to a friends house and played Scrabble."   
 "How did the game go?"   
@@ -55,9 +55,9 @@ Examples should make you feel like the person telling the example actually did t
 "Oh, who won?"   
 "The person with the highest score."
 
-Does this sound like the teenager actually played Scrabble last night? This is what bad examples look like. You want a concrete example.   
+Does this sound like the teenager actually played Scrabble last night? This is what bad examples feels  like.  You want a good **concrete** example.   
 "How did the game go?"   
-"There was three players: me, Jennifer and Samantha. Samantha went first playing the word again for 7 points. ... Jennifer ended up winning with 297 points."
+"There was three players: me, Jennifer and Samantha. Samantha went first playing the word 'again' for 7 points. ... Jennifer ended up winning with 297 points."
 
 Now you have an example that you can turn into code.  
 
