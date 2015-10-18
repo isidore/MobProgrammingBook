@@ -157,7 +157,7 @@ The first measure of feedback lets you know if the group is taking too large ste
 
 Feedback helps to bring everyone in the team to the same mental space. Do not worry about the feedback always being positive. Many times seeing how it fails helps us to know what success looks like. Likewise, a different type of failure is also good feedback. It lets us know that we are making progress. FFinally, even seeing failure that confirms that we are where we think we are is helpful, especially for the times when we aren't.
 
-The second measure of feedback of committed code has to do with how large of a task you are taking at a time, as opposed to making progress within a task. It is possible to very many small steps in too large of a task. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
+The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to very many small steps in too large of a task. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
 
 <center><i>**Be the bird, not the statue.** </i></center>
 
@@ -167,24 +167,24 @@ It is useful to post the following rules on the wall as well as get a general wo
 
 <center><i>**We will treat everyone with kindness, consideration and respect.** </i></center>
 
-One interesting aspect of treating each other with kindness, consideration and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking.
+One interesting aspect of treating each other with kindness, consideration and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking, rather than the other way around.
 
 Kindness is rather self-explanatory, but consideration and respect are worth going into.
 
 ### Consideration
 
-Consideration is really about listening. This is something we don't get a lot of practice with focus on individual contribution. The place it is going to show up the most is at the driver seat. Often the driver will start by not listening to the navigator.
+Consideration is really about listening. This is something we don't get a lot of practice with because of the focus on individual contribution. The place it is going to show up the most is at the driver seat. Often the driver will start by not listening to the navigator.
 
 I usually respond to this with the usual announcements of "No thinking at the keyboard" or "There's too much thinking going on at the keyboard".
 
 Another way that this will manifest itself is that good ideas will be spoken by members of the mob and utterly ignored. Usually these ideas are softly spoken by more introverted members. As a facilitator, it is your job to call attention to those ideas and make sure that everyone gets heard.
 
-Over time the mob will learn the habits to listening to everyone and people will find their spots to contribute.
+Over time the mob will learn the habits to listening to everyone and people will find their spots to contribute. As we gain experience being heard we will also change how we speak.
 
 One final violation of consideration is when members who are not in either the designated driver or navigator spot, tune out, usually opening their laptops or phones. This can be a tricky one to handle. I prefer to handle it with environmental settings. Chairs without tables to put a laptop on, and frequent rotations will do more to keep everybody engaged than disciplining them when they are not paying attention.
 
 ### Respect
 
-<center><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></center>  
+<div style="text-align:center"><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></div>  
 
-Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. And safe to look at and improve code without judging and criticizing the author.
+Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. Safe to look at and improve code without judging and criticizing the author. Remember that mob programming exposes a lot about everybody involved and we need to safe and supported.
