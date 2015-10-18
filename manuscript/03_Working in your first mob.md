@@ -159,13 +159,13 @@ Feedback helps to bring everyone in the team to the same mental space. Do not wo
 
 The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to very many small steps in too large of a task. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
 
-<center><i>**Be the bird, not the statue.** </i></center>
+<i>**Be the bird, not the statue.** </i>
 
 ## The Rules
 
 It is useful to post the following rules on the wall as well as get a general working agreement from the mob.
 
-<center><i>**We will treat everyone with kindness, consideration and respect.** </i></center>
+<span><i>**We will treat everyone with kindness, consideration and respect.** </i></span>
 
 One interesting aspect of treating each other with kindness, consideration and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking, rather than the other way around.
 
@@ -185,6 +185,6 @@ One final violation of consideration is when members who are not in either the d
 
 ### Respect
 
-<div style="text-align:center"><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></div>  
+<div><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></div>  
 
 Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. Safe to look at and improve code without judging and criticizing the author. Remember that mob programming exposes a lot about everybody involved and we need to safe and supported.
