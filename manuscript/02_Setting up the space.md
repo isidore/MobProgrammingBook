@@ -46,17 +46,19 @@ While you can get away with just about anything for your first mob, here are som
 
 2. Simple editor with line numbers
 
-   Line numbers make it easy to talk about where your focus is at. Editors that allow for simple typing and scrolling make it easier for everybody to track what is going on. In particular, editors like vi and Emacs add to the cognitive load if not configured identically as everybody in the team normally uses them. Also, make sure the font size is big enough so that everyone can easily read it.
+   Line numbers make it easy to talk about where your focus is at. Editors that allow for simple typing and scrolling make it easier for everybody to track what is going on. In particular, editors like vi and Emacs add to the cognitive load if not configured identically as everybody in the team normally uses them. Finally, make sure the font size is big enough so that everyone can easily read it.
 
 ## Seating and Roles
 
 ### The Driver
 
-The driver is the typist. There should be "no thinking" going on by the driver. This means that for anything to happen, there will need to be talking involved. It is important that the driver trusts the navigator and does their best to do what is asked.
+The driver is the typist. There should be "no thinking" going on by the driver. This means that for anything to happen, there will need to be talking involved. It is important that the driver trusts the navigator and does their best to listen and do what is asked.
 
 ### The Navigator
 
 The navigator is the main person programming. While they will take insight and help from the mob, they are the person who has to make the final decision on what to do. They should be talking in the highest level of abstraction possible. However, in the beginning, this is often at the level of keystrokes and simple programming structures.
+
+We will go into this more in the chapter on **Strong-style Pairing**.
 
 ### The Mob
 
@@ -68,6 +70,6 @@ The facilitator sits in the back. They do not rotate with the rest of the mob. I
 
 ## The Rotation
 
-In the beginning, you will be using a 4-minute timer. This is usually your phone. It should have an audible sound at the end of each turn. At the end of each turn, everybody stands up and rotates to the next seat. The navigator should become the driver. The driver should join the mob.
+In the beginning, you will be using a 4-minute timer. This is usually your phone. It should have an audible (but pleasant) sound at the end of each turn. At the end of each turn, everybody stands up and rotates to the next seat. The navigator should become the driver. The driver should join the mob.
 
 **Congratulations, you are not ready to start your first mob programming session!**
