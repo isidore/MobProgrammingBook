@@ -2,7 +2,7 @@
 
 ## Learning
 
-Learning is fundamentally made up of two parts. The first part is fuel. You need to have experiences to learn from. You've just had an experience of mobbing. This is a great opportunity to learn. Your tank is full of fuel.
+Learning is fundamentally made up of two parts. The first part is experiences which are the fuel for learning. You need to have experiences to learn from. You've just had an experience of mobbing. This is a great opportunity to learn. Your tank is full of fuel.
 
 However, in and of itself, fuel is not enough to get you anywhere. You need to burn it. The way you harness the potential energy of your experiences is by retrospecting over them, thinking through them, examining them and imagining new experiments for future experiences.
 
