@@ -5,3 +5,5 @@
 04_Closing a mobbing session.md
 05_Mobbing Cheat Sheet.md
 06_Strong-style pairing.md
+
+Reference_01_Katas.md

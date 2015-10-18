@@ -30,7 +30,7 @@ There are three common items to work on as your first task.
 
 2. Refactoring large methods
 
-   Many times teams have code that is hard to read. A refactoring for readability exercise makes a great first experience in mobbing. Simply choose a method that everyone agrees is troublesome and you are going to work with soon anyways. When you do this exercise, we suggest starting with the simple extraction of paragraphs of code and giving them better names. The only two refactorings we suggest are extract method and rename. We also suggest that you commit frequently, usually after each paragraph.
+   Many teams have code that is hard to read and understand. A refactoring for readability exercise makes a great first experience in mobbing. Simply choose a method that everyone agrees is troublesome and you are going to work with soon anyways. When you do this exercise, we suggest starting with the simple extraction of paragraphs of code and giving them better names. The only two refactorings we suggest are extract method and rename. We also suggest that you commit frequently, usually after each paragraph.
 
 3. Programming Katas
 
