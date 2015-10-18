@@ -159,7 +159,7 @@ Feedback helps to bring everyone in the team to the same mental space. Do not wo
 
 The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to very many small steps in too large of a task. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
 
-<i>**Be the bird, not the statue.** </i>
+<span style="display:block"><i>**Be the bird, not the statue.** </i></span>
 
 ## The Rules
 
@@ -185,6 +185,6 @@ One final violation of consideration is when members who are not in either the d
 
 ### Respect
 
-<div><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></div>  
+<span style="text-align:center;display:block"><i>**We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.** </i></span>  
 
 Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. Safe to look at and improve code without judging and criticizing the author. Remember that mob programming exposes a lot about everybody involved and we need to safe and supported.
