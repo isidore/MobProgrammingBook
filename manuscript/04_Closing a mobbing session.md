@@ -81,6 +81,18 @@ Mainly you are just going to read the observations out loud and place them on th
 
 Here are a couple of key things to remember.
 
+  * Use your whole space on the whiteboard or wall.  
+
+  * If you do not have enough space for the amount of stickies, don't worry. Just read them our loud and don't worry about the groupings.  
+
+  * If there is any confusion, this is the time to ask for clarification.  
+
+  * If you feel there is something to add or compliment or even dispel, you can do that while reading the sticky.  
+
+  * If a sticky opens a larger discussion, place it to the side and return to those stickies after going through all the rest.  
+  
+  * After everything is done, it can be useful to circle and label 3-4 groupings that have emerged.  
+
 ## Final thoughts
 
 The entire observation period should take 15 minutes on average. It is important to plan for that time as it is easy to run over and skip it if you don't.
