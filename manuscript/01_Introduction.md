@@ -1,6 +1,6 @@
 # How to use this book
 
-This is a recipe book for how to create a great and collaborative mob. Too often, we find people altering the recipes before they know how the overall dynamics work or what purpose each ingredient provides. Here is our suggestion.
+This is a recipe book for how to create a highly functional and collaborative mob. Too often, we find people altering the recipes before they know how the overall dynamics work or what purpose each ingredient provides. Here is our suggestion.
 
 ## Beginner mode
 
@@ -12,4 +12,4 @@ As the mob starts to connect and a whole team emerges, you will start to move in
 
 ## Advanced mode
 
-Disregard the steps. Just turn up the good. Pay attention to subtleties of your team and the lessons of the retrospectives. At this point, the book has served its purpose and is only here to remind you of some of the foundational principles. Now is the time to create your own way of working together.
+Disregard the steps. Just pay attention to the things that are working for you and focus on doing more of those things. Pay attention to subtleties of your team and the lessons of the retrospectives. At this point, the book has served its purpose and is only here to remind you of some of the foundational principles. Now is the time to create your own way of working together.
