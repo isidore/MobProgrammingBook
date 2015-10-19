@@ -4,7 +4,7 @@ An important aspect of mobbing is manner in which the driver and navigator(s) wo
 
 The basic idea is
 
-<center><i>**For an idea to go from your head to the computer, it must go through someone else's hands.** </i></center>  
+<span><i>**For an idea to go from your head to the computer, it must go through someone else's hands.** </i></span>  
 
 <br />
 While programmers have years of practice taking an idea from their head to the computer through their fingers, most programmers have little to no practice articulating their thoughts so that another person can understand them.
@@ -43,15 +43,15 @@ One exercise that can be helpful in giving people a sense of navigating and driv
 
 Remember, you are going to do lots of little cycles of the three step basic navigation flow. For example,
 
-"Open up the game"  
+<i>"Open up the game"</i>  
 -no response-  
-"Move to the next screen"  
+<i>"Move to the next screen"</i>  
 -no response-     
-"Swipe left"  
+<i>"Swipe left"</i>  
 -moves to the next screen-  
-"Click on the game icon"  
+<i>"Click on the game icon"</i>  
 -no response-  
-"It's in the upper right corner"  
+<i>"It's in the upper right corner"</i>  
 -opens game-
 
-After you have practiced the driver-navigator, switch roles and phones and give the other person a chance to try the roles reversed. Usually this exercise takes around 5 minutes per person. 
+After you have practiced the driver-navigator, switch roles and phones and give the other person a chance to try the roles reversed. Usually this exercise takes around 5 minutes per person.
