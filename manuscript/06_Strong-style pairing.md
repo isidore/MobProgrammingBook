@@ -21,19 +21,26 @@ When you are navigating, there is a 3-step process you tend to follow.
 
 The navigator is always trying to speak at the highest level of abstraction that can be understood. Even if the high level intention is not enough, it is important to say it so that the driver can map the actions to higher level concepts.
 
-If the driver does not seem to react when you give the intention, or if they move to the wrong location, your next step is to get them to the right place. Line numbers can be very helpful for this, as well as the use of screen terminology such as:
+If the driver does not seem to react when you give the intention, or if they move to the wrong location, your next step is to get them to the right place. Line numbers can be very helpful for this, as well as the use of screen terminology such as:  
+
   * **Menu bar**  
   The top-level text menus usually starting with File, Edit etc.
+
   * **Tool bar**  
   The top-level icon menus.
+
   * **Task bar**  
-  On Windows machines, the task bar is usually at the bottom of the screen and holds which programs are open.
+  On Windows machines, the task bar is usually at the bottom of the screen and holds which programs are open.  
+
   * **Tabs**  
-  Editors and browsers use tabs to allow many documents to be open at once.
+  Editors and browsers use tabs to allow many documents to be open at once.  
+
   * **Tab well**  
-  Editors will sometimes sections areas on the right, left, bottom or top to hold things like file navigators. These areas are called tab wells.
+  Editors will sometimes sections areas on the right, left, bottom or top to hold things like file navigators. These areas are called tab wells.  
+
   * **Gutter**  
-  The sideline next to the text, usually where the line numbers are.
+  The sideline next to the text, usually where the line numbers are.  
+  
 
 Once you've gotten the driver to the right location, if they are still not moving, you will need to give keystrokes. Remember to also use keystrokes for keyboard shortcuts. Keyboard shortcuts can be a little tricky because often they are muscle memory for you and you don't know them yourself. One trick is to pretend there is a keyboard in front of you, and do the keyboard combination on the pretend-keyboard. Also remember that when giving keystrokes, you also want to convey the intent. For example, "Let's extract the method. That is ctrl+alt+m".
 
