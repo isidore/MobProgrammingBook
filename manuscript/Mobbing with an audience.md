@@ -1,1 +1,0 @@
-Your reason to get into learning mob programming may be that you want to organize sessions in conferences and trainings with a shared hands-on component. Mobbing is a great way to do that for a core group that others are then observing.
