@@ -80,13 +80,12 @@ Collect all the sticky notes and bring them up to the whiteboard. It's time to s
 Mainly you are just going to read the observations out loud and place them on the whiteboard to allow for groupings to emerge.
 
 Here are a couple of key things to remember.
-<ul>
-<li> Use your whole space on the whiteboard or wall.</li>   
-<li> If you do not have enough space for the amount of stickies, don't worry. Just read them our loud and don't worry about the groupings.</li>  
-<li> If there is any confusion, this is the time to ask for clarification.</li>  
-<li> If you feel there is something to add or compliment or even dispel, you can do that while reading the sticky.</li>  
-<li> If a sticky opens a larger discussion, place it to the side and return to those stickies after going through all the rest.</li>  
-<li> After everything is done, it can be useful to circle and label 3-4 groupings that have emerged.</li>  
+  1. Use your whole space on the whiteboard or wall.  
+  2. If you do not have enough space for the amount of stickies, don't worry. Just read them our loud and don't worry about the groupings.
+  3. If there is any confusion, this is the time to ask for clarification.
+  4. If you feel there is something to add or compliment or even dispel, you can do that while reading the sticky.
+  5. If a sticky opens a larger discussion, place it to the side and return to those stickies after going through all the rest.
+  6. After everything is done, it can be useful to circle and label 3-4 groupings that have emerged.
 
 ## Final thoughts
 
