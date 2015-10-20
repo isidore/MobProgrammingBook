@@ -19,7 +19,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
   4. Bowling (score card)
   5. Blackjack
   6. Checkers/Chess
-  7. Yatzee
+  7. Yahtzee
   8. Scrabble
 
 ## Checkouts
@@ -48,7 +48,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
 ## Words / Text
 
  1. Anagrams
- 2. Secert Decode Ring
+ 2. Secret Decoder Ring
  3. Word Wrap
  4. LCD numbers
  5. Natural Sort (1.txt,2.txt,10.txt,20.txt)
