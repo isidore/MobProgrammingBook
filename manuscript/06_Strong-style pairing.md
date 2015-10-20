@@ -40,7 +40,7 @@ If the driver does not seem to react when you give the intention, or if they mov
 
   * **Gutter**  
   The sideline next to the text, usually where the line numbers are.  
-  w
+  
 
 Once you've gotten the driver to the right location, if they are still not moving, you will need to give keystrokes. Remember to also use keystrokes for keyboard shortcuts. Keyboard shortcuts can be a little tricky because often they are muscle memory for you and you don't know them yourself. One trick is to pretend there is a keyboard in front of you, and do the keyboard combination on the pretend-keyboard. Also remember that when giving keystrokes, you also want to convey the intent. For example, "Let's extract the method. That is ctrl+alt+m".
 

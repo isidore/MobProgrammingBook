@@ -139,7 +139,7 @@ Finally we return the perimeter."</i>
 Notice two things. First, there is an awful lot of programming words in this English (variable, iterate, return). Second, the programmer is giving the comments for a for-loop implementation that is already in their head. This is not how a regular person would tell someone to calculate a perimeter.
 
 Usually I would say something like   
-**Q**:<i>"How would you tell a child?"  </i>
+**Q**:<i>"How would you tell a child?"  </i>  
 **A**:<i>"You sum up the lengths of the sides."</i>
 
 Because this intention is more intentional and less prescriptive, there is a lot more freedom to come up with different code translations.
