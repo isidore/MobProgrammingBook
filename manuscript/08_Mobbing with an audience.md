@@ -54,7 +54,7 @@ To the main part, this works the same part as a regular mob, with a couple extra
 
   On the other hand, if the navigator is stuck or frightened, you may need to encourage the audience to help them out.
 
-  ### Diversity in the mob
+### Diversity in the mob
 
   When you have a subsection of your audience, the makeup of the mob will effect how and what they will do. The people who feel more comfortable volunteering, will volunteer first. Since you're only selecting a small group, you might have to encourage minorities to join in front or your mob will not reflect your audience but will be entirely made up of the most common majority.
 
