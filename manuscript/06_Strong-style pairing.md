@@ -2,14 +2,14 @@
 
 An important aspect of mobbing is manner in which the driver and navigator(s) work together and split roles. This style of collaboration comes from Strong-style pair programming as discovered by Llewellyn Falco.
 
-The basic idea is
+The basic idea is:
 
 <span><i>**For an idea to go from your head to the computer, it must go through someone else's hands.** </i></span>  
 
 <br />
 While programmers have years of practice taking an idea from their head to the computer through their fingers, most programmers have little to no practice articulating their thoughts so that another person can understand them.
 
-Here are some tips and exercises to to help develop the skill.
+Here are some tips and exercises to help develop the skill.
 
 ## Basic navigation flow
 
@@ -36,7 +36,7 @@ If the driver does not seem to react when you give the intention, or if they mov
   Editors and browsers use tabs to allow many documents to be open at once.  
 
   * **Tab well**  
-  Editors will sometimes sections areas on the right, left, bottom or top to hold things like file navigators. These areas are called tab wells.  
+  Editors will sometimes have section areas on the right, left, bottom or top to hold things like file navigators. These areas are called tab wells.  
 
   * **Gutter**  
   The sideline next to the text, usually where the line numbers are.  
