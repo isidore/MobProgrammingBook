@@ -6,7 +6,7 @@ Creating a book takes a lot persistence and support from early adopters like you
 
 Thank you.
 
-Llewellyn Falco & Maaret Pyh&auml;j&auml;rvi
+Maaret Pyh&auml;j&auml;rvi & Llewellyn Falco
 
-isidore@setgame.com  
 maaret@iki.fi
+isidore@setgame.com  
