@@ -14,6 +14,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
 ## Games
 
   Most games make for good katas. Here are a few of our favorites
+
   1. Tic-Tac-Toe
   2. Battleship
   3. Minesweeper
@@ -26,6 +27,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
 ## Checkouts
 
  Create a receipt and checkout program. Interesting pricing rules include
+
  1. Multiple items
  2. Discounts if 3 are purchased
  3. Discounts if 3 or more are purchased
@@ -38,6 +40,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
 ## Math
 
   Math problems are also fun.
+  
   1. Triangles (perimeters, area, angles)
   2. Shortest route
   3. Integer Range (does 1-100 contain 65? overlap 50-200? contain 5-10?)
