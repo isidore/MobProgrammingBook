@@ -1,4 +1,5 @@
 00_Thank you.md
+00_What Is Mob Programming.md
 01_Introduction.md
 02_Setting up the space.md
 03_Working in your first mob.md
