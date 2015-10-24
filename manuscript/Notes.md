@@ -19,10 +19,9 @@ Troubles:
   * Driver doing thinking while typing
   * Not leaving room for less skilled navigators to contribute the easy bits
   * Disturbing the focus with complaints of not wanting to be there
-  *
 
 
-Guidelines for 1st seesion. timing ending.
+Guidelines for 1st session. timing ending.
 
 We're always talking to the facilitator.
 
@@ -40,4 +39,4 @@ What if we have personalized IDEs
 
 
 How to move from your 1st mob to your hundreth or making this a full day thing
-Why - basic answers 
+Why - basic answers

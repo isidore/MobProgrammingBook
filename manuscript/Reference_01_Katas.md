@@ -3,7 +3,7 @@ Katas are simple exercises that we can do for the sake of practice.
 
 ## FizzBuzz
 1,2,Fizz,4,Buzz,Fizz,7,8,Fizz,Buzz,11,Fizz,13,14,FizzBuzz  
-Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisible by 5 with Buzz and both with FizzBuzz.
+Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisible by 5 with Buzz and both with FizzBuzz.
 
 ## Roman Numerals
 
@@ -40,7 +40,7 @@ Print the numbers from 1-100 replacing numbers divisible  by 3 with Fizz, divisi
 ## Math
 
   Math problems are also fun.
-  
+
   1. Triangles (perimeters, area, angles)
   2. Shortest route
   3. Integer Range (does 1-100 contain 65? overlap 50-200? contain 5-10?)
