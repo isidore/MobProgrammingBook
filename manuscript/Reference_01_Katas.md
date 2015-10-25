@@ -56,9 +56,37 @@ Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisib
  3. Word Wrap
  4. LCD numbers
  5. Natural Sort (1.txt,2.txt,10.txt,20.txt)
- 5. Diamonds  
+ 6. Diamonds  
  ![](images/Diamond.png)
 
+## Exploratory Testing
+
+### Test Target
+ You can use any software, website application or electronic device to do an Exploratory Testing kata.
+ Some of the qualities that make a good test target are:
+
+ 1. Understandable Domain (either common or team specific)
+ 2. Target rich - a fair amount of problems to Find
+ 3. Small area to test
+ 4. Gui, Api or Physical Interface
+
+### Charter
+ Choose a single charter for your Kata. Possible charters include:
+
+ 1. List Features while testing (Mindmap)
+ 2. Find Bugs & Questions
+ 3. Toolings (Bug magnet, Chrome Developer Tools, Burb Suite, etc...)
+ 4. Create tests scripts (Selenium, Cucumber, etc...)
+ 5. Create bug reports
+ 6. Through notetaking
+ 7. Test Planning (list possible areas and charters)
+ 8. Performance Testing
+ 9. Security Testing
+ 10. Enhancing Testability & Supportability
+ 11. Different Environment Testing
+ 12. Usability Testing (personas, Nielsen heuristics)
+ 13. Analysing logs
+ 14. Heuristics (SFDPOT, HICCUPS, etc...)
 
 ## Other
   Any suggestion can make a good kata. Our rule is whoever suggested the kata becomes the product owner and is responsible for defining the user stories and prioritizing them.
