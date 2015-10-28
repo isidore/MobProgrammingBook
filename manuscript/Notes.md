@@ -40,3 +40,8 @@ What if we have personalized IDEs
 
 How to move from your 1st mob to your hundreth or making this a full day thing
 Why - basic answers
+
+ToDo
+--> Ru's comments
+--> Going past your first mob
+--> Title case throughout the book
