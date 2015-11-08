@@ -1,4 +1,5 @@
 00_Thank you.md
+00_Part1.md
 00_What Is Mob Programming.md
 01_Introduction.md
 02_Setting up the space.md
@@ -7,5 +8,8 @@
 05_Mobbing Cheat Sheet.md
 06_Strong-style pairing.md
 08_Mobbing with an audience.md
+09_Part2.md
+10_Building habits.md
+11_Monitoring your mob.md
 
 Reference_01_Katas.md

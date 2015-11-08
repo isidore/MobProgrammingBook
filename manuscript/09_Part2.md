@@ -1,0 +1,6 @@
+# PART 2
+# Developing into a full mob
+
+All the chapters up until this point have been about getting started. Although we have referred to that as mob programming, it is actually closer to the randori technique. The difference between randori and mobbing seems trivial from the outside. It is closer to the difference between little league and professional sports. While much of the trappings are the same, the level of skill and ability is greatly increased. One of the biggest differences is the level of trust and understanding between the participants.
+
+In this next section, we are going to start to talk about how to transition a team from their very first mob to fully functional mob. This takes some time. This can take several weeks. Remember to go slow. Introducing one new thing at a time. 
