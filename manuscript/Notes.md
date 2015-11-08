@@ -41,6 +41,10 @@ What if we have personalized IDEs
 How to move from your 1st mob to your hundreth or making this a full day thing
 Why - basic answers
 
+Testers asking about spliting the roles of driver and notetaker
+
+
+
 ToDo
 --> Ru's comments
 --> Going past your first mob

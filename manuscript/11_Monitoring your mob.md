@@ -4,6 +4,8 @@ Now that your team is doing a little each day, the next step is to start paying 
 
 ## Engagement
 
+Engagement is the basis for shared understanding in your team.
+
 The main difference between a high-functioning mob and a beginning group is engagement. You want to make sure that everybody is engaged. This is particularly problematic for the people who are neither the driver or the navigator. The first step is to model the behavior. If you are distracted on your laptop or your phone, you´re sending a clear message that they should be too.
 
 ### Engagement signals
