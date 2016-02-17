@@ -1,3 +1,12 @@
+Leaning in to process
+Walking away
+Admitting you don't know
+
+Skill differences in a mob & designated navigator, ask for help as navigator when you need it
+Preferencing being productive today vs. being productive tomorrow
+Seniors talk last thing. Double navigation. 
+
+
 Intentional programming
 Non-programmers in the mob and ways of contributing
 Adjusting chairs for different people

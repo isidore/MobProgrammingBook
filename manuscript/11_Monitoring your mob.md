@@ -11,12 +11,15 @@ The main difference between a high-functioning mob and a beginning group is enga
 ### Engagement signals
 
    1. Quiet
+
    The mob should never be quiet. Quiet not only means that the other participants aren´t engaged, but it means that the navigator isn´t navigating and probably that the driver is thinking. If your mob is quiet, that is a distinctive warning sign that something is wrong.
 
    2. Head orientation
+
    Even though you´re sitting at the back of the room, it is easy to tell if people are engaged simply from their head orientation. Are they looking at the screen? Good. Are they looking somewhere else? Not good.
 
    3. Laptops and smartphones
+
    Although later you will want them to have laptops, it is not a good idea in the beginning. Often laptops will encourage people who are not driving or navigating be completely disengaged, checking email or doing other activities. Sometimes this will go away naturally by keeping the rotation time tight and making them move around a table. Although we will also implement a no laptop rule when necessary.
 
    This is a very tricky things. When members of the mob check out when they are not at keyboard, it is akin to saying: "this is not important enough to require my attention". This quickly becomes: "YOU are not important enough to require my attention."
