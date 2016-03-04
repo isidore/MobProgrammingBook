@@ -15,7 +15,7 @@ Ask the navigator what they are going to do. Here's some examples of when a navi
 
 Lost:
 
-**Q**: <i> "What are you going to do?"</i>    
+**Q**: *"What are you going to do?"*   
 **A**: <i> "I don't know."</i>     
 **A**: <i> "Something with the test."</i>     
 **A**: <i> "Get it to work."</i>     
@@ -182,7 +182,7 @@ Another way that this will manifest itself is that good ideas will be spoken by 
 
 Over time the mob will learn the habits of listening to everyone and people will find their spots to contribute. As we gain experience being heard we will also change how we speak.
 
-Another aspect to consideration is to remember to allow other people to shine. You don't always need to be showing how much you know. And if someone has a differing way of doing it, try their way first and then consider if your idea would make it better. It's ok to try a solution in multiple ways. 
+Another aspect to consideration is to remember to allow other people to shine. You don't always need to be showing how much you know. And if someone has a differing way of doing it, try their way first and then consider if your idea would make it better. It's ok to try a solution in multiple ways.
 
 One final violation of consideration is when members who are not in either the driver or designated navigator spot, tune out, usually opening their laptops or phones. This can be a tricky one to handle. I prefer to handle it with environmental settings. Chairs without tables to put a laptop on, and frequent rotations will do more to keep everybody engaged than disciplining them when they are not paying attention.
 
