@@ -76,4 +76,4 @@ The facilitator sits in the back and does not rotate with the rest of the mob. I
 
 In the beginning, you will be using a 4-minute timer. This is usually your phone. It should have an audible (but pleasant) sound at the end of each turn. At the end of each turn, everybody stands up and rotates to the next seat. The navigator should become the driver. The driver should join the mob.
 
-> ** &nbsp; *Congratulations, you are now ready to start your first mob programming session!* &nbsp;**  
+> **&nbsp; *Congratulations, you are now ready to start your first mob programming session!* &nbsp;**  
