@@ -160,13 +160,13 @@ Feedback helps to bring everyone in the team to the same mental space. Do not wo
 
 The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to take very many small steps, while still taking too large of a task overall. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
 
-** *Be the bird, not the statue.* **
+**&nbsp; *Be the bird, not the statue.* &nbsp;**
 
 ## The Rules
 
 It is useful to post the following rule on the wall as well as get a general working agreement from the mob.
 
-** *We will treat everyone with kindness, consideration and respect.* **
+**&nbsp; *We will treat everyone with kindness, consideration and respect.* &nbsp;**
 
 One interesting aspect of treating each other with kindness, consideration and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking, rather than the other way around.
 
