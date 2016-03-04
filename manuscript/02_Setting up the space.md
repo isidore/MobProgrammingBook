@@ -2,7 +2,7 @@
 
 For your first time doing mob programming, you do not need to worry too much about the space. We're going to lay out just the most critical things that are helpful.
 
-Note: If you are doing this with more than ten people, please check out the chapter <i>mobbing with an audience</i>.
+Note: If you are doing this with more than ten people, please check out the chapter *mobbing with an audience*.
 
 ## Basic Setup
 
@@ -76,4 +76,4 @@ The facilitator sits in the back and does not rotate with the rest of the mob. I
 
 In the beginning, you will be using a 4-minute timer. This is usually your phone. It should have an audible (but pleasant) sound at the end of each turn. At the end of each turn, everybody stands up and rotates to the next seat. The navigator should become the driver. The driver should join the mob.
 
-<span><i>**Congratulations, you are now ready to start your first mob programming session!** </i></span>  
+> ** *Congratulations, you are now ready to start your first mob programming session!* **  

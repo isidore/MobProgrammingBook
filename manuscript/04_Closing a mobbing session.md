@@ -65,9 +65,9 @@ For sticky notes, it is also important to have good markers to write with. We su
 
 ## Collecting observations
 
-When you ask for observations, if you just say <i>"give me any observations"</i>, then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas that observations can come from. Think of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, I will often say something like:  
+When you ask for observations, if you just say *"give me any observations"*, then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas that observations can come from. Think of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, try saying something like:  
 
- <i>"Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."</i>
+ *"Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."*
 
 After you ask for observations, you want to give enough time for everyone to write them down. I usually try to count to twenty in my head after I have heard the last person stop writing, just to make sure we got everything.
 
@@ -101,4 +101,4 @@ When retrospectives are frequent and short, the outcomes from them are small. Bu
 
 In your first retrospectives, don't expect a lot of observations. Like everything else, it takes time to build the habit of noticing what is going on. Part of the reason to do regular retrospectives, is to build the metacognition abilities of your team. Once those are built, you might notice people making observations while the mobbing is happening and even writing them down. At this point you might be tempted to abandon the retrospective all together, as it is no longer needed. Don't. If you do, you have to rebuild that skill up after a couple of weeks when the habit fades away.
 
-<i>*Pictures used from Google image search labeled for reuse. The last picture of sticky notes is from Michael Sahota. </i>
+*Pictures used from Google image search labeled for reuse. The last picture of sticky notes is from Michael Sahota.*
