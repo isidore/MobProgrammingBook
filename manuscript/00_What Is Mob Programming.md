@@ -2,15 +2,15 @@
 
 >All the brilliant people working on the same thing, at the same time, in the same space, on the same computer. -- Woody Zuill (the discoverer of Mob Programming)
 
-Mob Programming is a style of programming in which the entire team sits together and works on a single problem at a time. Teams that have worked this way have found that many of the problems that plague normal development have just melted away, possibly because communication and learning goes way up. Teams also find that the quality of their code increases, but best part of all is that teams end up happier and more cohesive.
+Mob Programming is a style of programming in which the entire team sits together and works on a single task at a time. Teams that have worked this way have found that many of the problems that plague normal development have just melted away, possibly because communication and learning goes way up. Teams also find that the quality of their code increases, but best part of all is that teams end up happier and more cohesive.
 
 ## Why would you have 5-8 people working on one thing?
 
 A lot of people think that it must inefficient and wasteful to have your entire team working on one problem. Couldn't you get more out them if you divide and conquer? The answer is: No. It's better to think of this in a completely different fashion.
 
-Instead of thinking how can I get the most out of my team, with mob programming we ask **how can I get the best out of my team?** This process was discovered by Woody Zuill and his team at Hunter Industries. Through the process of constantly paying attention to what they were doing, they tried to do more of the things that were working.
+Instead of thinking how can I get the most out of my team, with mob programming we ask **how can I get the best out of my team?** This process was discovered by Woody Zuill and his team at Hunter Industries through the process of constantly paying attention to what they were doing, and doing **more** of the things that were working.
 
-Maybe you've had the experience where the team came together and swarmed over a particularly tough problem. By working together as a team, the swarm might have been able to resolve that very hard problem. We've talked to many people who have had this experience. The big difference is that after getting success working in this manner, most teams say "Problem solved, let's go back to normal". Mobbing says "We were very high performing, how can we do more of that?".
+Maybe you've had the experience where the team came together and swarmed over a particularly tough problem. By working together as a team, the swarm might have been able to resolve that problem. We've talked to many people who have had this experience. The big difference is that after having success working in this manner, most teams say "Problem solved, let's go back to normal". Mobbing says "We were very high performing, how can we do more of that?".
 
 ## Getting the best out of your team
 
@@ -20,7 +20,7 @@ In the end it's only what makes it into the code that actually matters.
 
 ![Quality - Separate Programming](images/Quality - Separate Programming.png)
 
-When you work as a mob, everybody still has their highs and lows. However, this is what makes it into the code. What makes it into the code is only the highest points. This can be particularly empowering for team members whose programming skill might not be the best. Many teams we have found that these team members have some of the best ideas on the team but just have trouble turning those insights into production code. Left by themselves, those insights die. In the mob, they flourish.
+When you work as a mob, everybody still has their highs and lows. However, this is not what makes it into the code. What makes it into the code is only the highest points. This can be particularly empowering for team members whose programming skill might not be the best. We have found that on many teams, some of the best ideas come from members that trouble turning those insights into production code. Left by themselves, those insights die. In the mob, they flourish.
 
 ![Quality - Mob Programming](images/Quality - Mob Programming.png)
 
@@ -34,4 +34,4 @@ There are tremendous benefits to this just-in-time knowledge. And unfortunately,
 
 In other words, everyone thinks that five people working by themselves means that everyone is working well independently. This is rarely the case.
 
-Imagine a jazz band. Are you going to get better music if you put everyone together and have them play a song or if you send them off to record separate pieces and then try to integrate them later? 
+Imagine a jazz band. Are you going to get better music if you put everyone together and have them play a song or if you send them off to record separate pieces and then try to integrate them later?

@@ -1,4 +1,4 @@
-# Setting up the space
+# Setting Up the Space
 
 For your first time doing mob programming, you do not need to worry too much about the space. We're going to lay out just the most critical things that are helpful.
 
@@ -16,7 +16,7 @@ It is also important to have a whiteboard where the navigator can express ideas.
 
 ## The Facilitator
 
-As you are reading this book, you will most likely be the facilitator. The important part to know is that mob programming works much better in the beginning when there is a facilitator. As a facilitator, your job is to ensure that all the steps of mob programming are being carried out appropriately. Most of the time, you will not be doing the programming yourself. The exception being if you need to pause the mob to introduce a new idea. You do not need to be a good programmer or even a programmer at all to be a good facilitator. This is not a team lead position. When everything is going well, you will be doing nothing at all.
+As you are reading this book, you will most likely be the facilitator. The important part to know is that mob programming works much better in the beginning when there is a facilitator. As a facilitator, your job is to ensure that all the steps of mob programming are being carried out appropriately. Most of the time, you will not be doing the programming yourself. The exception being if you need to pause the mob to introduce a new idea by temporarily stepping into the navigator role. You do not need to be a good programmer or even a programmer at all to be a good facilitator. This is not a team lead position. When everything is going well, you will be doing nothing at all.
 
 ## The Work
 
@@ -42,13 +42,17 @@ While you can get away with just about anything for your first mob, here are som
 
 1. **Keyboard and mouse**
 
-   Having an external keyboard and mouse just makes everything simpler for the driver. Better yet, if the laptop is shut then everybody is looking at the same the screen and the driver can cue off of people pointing to the screen.
+   Having an external keyboard and mouse just makes everything simpler for the driver. An external keyboard and mouse can also allow you to close the laptop, which is even better because then everybody is looking at the same the screen. This allows the driver to cue off of people pointing to the screen.
 
-2. **Simple editor with line numbers**
+2. **Screen**
+
+  While you usually have little control over the screen or projector, when you have a choice, try to get a bigger screen and a high-resolution projector. Remember that that code often has many more details than a regular slide presentation.
+
+3. **Simple editor with line numbers**
 
    Line numbers make it easy to talk about where your focus is at. Editors that allow for simple typing and scrolling make it easier for everybody to track what is going on. In particular, editors like vi and Emacs add to the cognitive load if not configured in the way each individual member of the team normally uses them. Finally, make sure the font size is big enough so that everyone can easily read it.
 
-## Seating and Roles
+## Seating and roles
 
 ### The Driver
 
@@ -58,11 +62,11 @@ The driver is the typist. There should be "no thinking" going on by the driver. 
 
 The navigator is the main person programming. While they will take insight and help from the mob, they are the person who has to make the final decision on what to do. They should be talking in the highest level of abstraction possible. However, in the beginning, this is often at the level of keystrokes and simple programming structures.
 
-We will go into this more in the chapter on **Strong-style Pairing**.
+We will go into this more in the chapter on **Strong-Style Pairing**.
 
 ### The Mob
 
-The mob is checking the navigator and contributing insights when appropriate. Remember that you are rotating fast and soon a new person will be navigating. This forces the other people in the mob pay attention.
+The mob is checking the navigator and contributing insights when appropriate. Remember that you will be rotating fast and soon a new person will be navigating. This forces the other people in the mob to pay attention.
 
 ### The Facilitator
 
