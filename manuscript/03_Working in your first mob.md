@@ -188,6 +188,6 @@ One final violation of consideration is when members who are not in either the d
 
 ### Respect
 
-> ** *We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.* **
+> **&nbsp; *We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.* &nbsp;**
 
 Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. Safe to look at and improve code without judging and criticizing the author. Remember that mob programming exposes a lot about everybody involved and we need to be safe and supported.
