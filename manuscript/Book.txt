@@ -13,5 +13,6 @@
 10_Building habits.md
 11_Monitoring your mob.md
 
+References.md
 Reference_01_Katas.md
 Reference_02_Mob Timers.md
