@@ -14,11 +14,25 @@ The mob timer is a program that not only tracks the amount of time, but also who
 
 Here are a few mob timers:
 
-* **Mob time**. It works on windows and mac, and it is our favored timer. https://github.com/GreatWebGuy/MobTime/releases
+![Agility web-based Mob Timer](images/MobTimer - Agility.Overview.png)
+http://oss.jahed.io/agility/timer.html  
+Web-based, no install needed  
+Can't see while programming
 
-* **Agility timer**. It's web-based, no install needed. http://oss.jahed.io/agility/timer.html
+![Original Hunter Mob Timer](images/MobTimer - MobProgrammingTimer.Net.Overview.png)
+https://github.com/MobProgramming/MobProgrammingTimer.Net/releases  
+Windows  
+Hard UI; Full-screen forces rotation
 
-* **Mob Programming Timer**. It only works on windows. This is the one by the original Hunter mob https://github.com/MobProgramming/MobProgrammingTimer.Net/releases
+![Mob Time Mob Timer](images/MobTimer - MobTime.Overview.png)
+https://github.com/GreatWebGuy/MobTime/releases  
+Windows & Mac  
+Easy to see countdown; Easy to pause.
+
+![Mobtimer.Python Mob Timer](images/MobTimer - MobTimer.Python.Overview.png)
+https://github.com/MobProgramming/MobTimer.Python/releases  
+Windows & Mac  
+Full-screen forces rotation; Easy to see countdown
 
 ## Encouraging participation
 
