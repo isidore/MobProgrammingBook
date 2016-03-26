@@ -1,4 +1,4 @@
-# Katas
+# Coding Katas
 Katas are simple exercises that we can do for the sake of practice.
 
 ## FizzBuzz
@@ -68,7 +68,7 @@ Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisib
  1. Understandable Domain (either common or team specific)
  2. Target rich - a fair amount of problems to Find
  3. Small area to test
- 4. Gui, Api or Physical Interface
+ 4. GUI, API or Physical Interface
 
 ### Charter
  Choose a single charter for your Kata. Possible charters include:
