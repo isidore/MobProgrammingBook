@@ -12,6 +12,8 @@
 09_Part2.md
 10_Building habits.md
 11_Monitoring your mob.md
+12_Full team engagement.md
+13_What established mobbing looks like.md
 
 References.md
 Reference_01_Katas.md
