@@ -1,4 +1,4 @@
-# Closing a mobbing session
+# Closing a Mobbing Session
 
 ## Learning
 
@@ -12,7 +12,7 @@ When we finish a mobbing session, we will run a retrospective to help us learn a
 
 A basic idea for an observations retrospective is silently collect observations from each participants on sticky notes. The facilitator will then read out each of the observations while placing them on the whiteboard. The facilitator tries to group similar things near each other so that groupings and patterns can emerge.
 
-## The explanation
+## The Explanation
 
 You want a safe and fertile place in which to gather observations from your group. If the group has never done an observations retrospective before, you will want to take a moment to explain why you are doing this so that people will feel more comfortable and you will get more and better observations.
 
