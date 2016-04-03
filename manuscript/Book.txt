@@ -9,6 +9,7 @@
 05_Mobbing Cheat Sheet.md
 06_Strong-style pairing.md
 08_Mobbing with an audience.md
+09_When people get stuck.md
 09_Part2.md
 10_Building habits.md
 11_Monitoring your mob.md
