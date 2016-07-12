@@ -1,21 +1,21 @@
-00_Thank you.md
-00_Part1.md
-00_What Is Mob Programming.md
-01_How to use this book.md
-015_Not just programming.md
-02_Setting up the space.md
-03_Working in your first mob.md
-04_Closing a mobbing session.md
-05_Mobbing Cheat Sheet.md
-06_Strong-style pairing.md
-08_Mobbing with an audience.md
-09_When people get stuck.md
-09_Part2.md
-10_Building habits.md
-11_Monitoring your mob.md
-12_Full team engagement.md
-13_What established mobbing looks like.md
+010_Thank you.md
+020_Part1.md
+030_What Is Mob Programming.md
+040_How to use this book.md
+050_Not just programming.md
+060_Setting up the space.md
+070_Working in your first mob.md
+080_Closing a mobbing session.md
+090_Mobbing Cheat Sheet.md
+100_Strong-style pairing.md
+110_Mobbing with an audience.md
+120_When people get stuck.md
+200_Part2.md
+210_Building habits.md
+220_Monitoring your mob.md
+230_Full team engagement.md
+240_What established mobbing looks like.md
 
-References.md
+Reference_00.md
 Reference_01_Katas.md
 Reference_02_Mob Timers.md

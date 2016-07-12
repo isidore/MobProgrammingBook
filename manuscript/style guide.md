@@ -9,7 +9,7 @@ Normal text.
 ![Image Title](images/Spot_the_difference.png)
 
 
-> *"AThis is a quote." -- Maaret Pyhäjärvi (author)*
+> *"This is a quote." -- Maaret Pyhäjärvi (author)*
 
 
 > **&nbsp; *This is a key concept.* &nbsp;**  
