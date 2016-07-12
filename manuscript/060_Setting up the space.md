@@ -46,7 +46,7 @@ While you can get away with just about anything for your first mob, here are som
 
 2. **Screen**
 
-  While you usually have little control over the screen or projector, when you have a choice, try to get a bigger screen and a high-resolution projector. Remember that that code often has many more details than a regular slide presentation.
+   While you usually have little control over the screen or projector, when you have a choice, try to get a bigger screen and a high-resolution projector. Remember that that code often has many more details than a regular slide presentation.
 
 3. **Simple editor with line numbers**
 
