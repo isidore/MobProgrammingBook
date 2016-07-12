@@ -8,15 +8,15 @@ However, in and of itself, fuel is not enough to get you anywhere. You need to b
 
 When we finish a mobbing session, we will run a retrospective to help us learn all we can from the session. There are many ways of running a retrospective. We are going to show you the most common way that we use.  
 
-## Basic framework
+## Observation Retrospective Framework
 
 A basic idea for an observations retrospective is silently collect observations from each participants on sticky notes. The facilitator will then read out each of the observations while placing them on the whiteboard. The facilitator tries to group similar things near each other so that groupings and patterns can emerge.
 
-## The Explanation
+## Part 1: The Explanation
 
-You want a safe and fertile place in which to gather observations from your group. If the group has never done an observations retrospective before, you will want to take a moment to explain why you are doing this so that people will feel more comfortable and you will get more and better observations.
+You want a safe and fertile place in which to gather observations from your group. If the group has never done an observation retrospective before, you will want to take a moment to explain why you are doing this so that people will feel more comfortable and you will get more and better observations.
 
-There are four parts to this explanation that I normally do:
+There are four parts to this explanation to do:
 
 1. Selective attention
 2. Expectation biases
@@ -63,7 +63,7 @@ You were too lazy to read that number
 
 For sticky notes, it is also important to have good markers to write with. We suggest Sharpies.
 
-## Collecting observations
+## Part 2: Collecting observations
 
 When you ask for observations, if you just say *"give me any observations"*, then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas that observations can come from. Think of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, try saying something like:  
 
@@ -73,7 +73,7 @@ After you ask for observations, you want to give enough time for everyone to wri
 
 Collect all the sticky notes and bring them up to the whiteboard. It's time to start reading observations.
 
-## Reading observations
+## Part 3: Reading observations
 
 Mainly you are just going to read the observations out loud and place them on the whiteboard to allow for groupings to emerge.
 

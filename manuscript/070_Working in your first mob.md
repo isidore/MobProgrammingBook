@@ -2,9 +2,9 @@
 
 ![Mob Programming](images/MobProgramming.jpg)
 
-## Heuristic
+## Is the mob working?
 
-If everything is going right, rotation will not disrupt the flow of the mob.
+Heuristic: If everything is going right, rotation will not disrupt the flow of the mob.
 
 
 ## Preparing the navigator
@@ -162,7 +162,7 @@ The second measure of feedback is how long since you committed code to your repo
 
 **&nbsp; *Be the bird, not the statue.* &nbsp;**
 
-## The Rules
+## The Rules for Working with Each Other
 
 It is useful to post the following rule on the wall as well as get a general working agreement from the mob.
 

@@ -1,5 +1,5 @@
-# Coding Katas
-Katas are simple exercises that we can do for the sake of practice.
+# Deliberate Practice
+Development katas are simple exercises that we can do for the sake of practice.
 
 ## FizzBuzz
 1,2,Fizz,4,Buzz,Fizz,7,8,Fizz,Buzz,11,Fizz,13,14,FizzBuzz  
@@ -66,7 +66,7 @@ Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisib
  Some of the qualities that make a good test target are:
 
  1. Understandable Domain (either common or team specific)
- 2. Target rich - a fair amount of problems to Find
+ 2. Target rich - a fair amount of problems to find
  3. Small area to test
  4. GUI, API or Physical Interface
 
@@ -78,7 +78,7 @@ Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisib
  3. Toolings (Bug magnet, Chrome Developer Tools, Burb Suite, etc...)
  4. Create tests scripts (Selenium, Cucumber, etc...)
  5. Create bug reports
- 6. Through notetaking
+ 6. Thorough notetaking
  7. Test Planning (list possible areas and charters)
  8. Performance Testing
  9. Security Testing
@@ -87,6 +87,12 @@ Print the numbers from 1-100 replacing numbers divisible by 3 with Fizz, divisib
  12. Usability Testing (personas, Nielsen heuristics)
  13. Analysing logs
  14. Heuristics (SFDPOT, HICCUPS, etc...)
+
+## Non-development
+  Sometimes you want to practice mobbing in a non-technical setting.
+
+### Writing
+  Write a blog or an essay. Remember to outline (at minimum the paragraph you're working on) to keep everyone in sync.
 
 ## Other
   Any suggestion can make a good kata. Our rule is whoever suggested the kata becomes the product owner and is responsible for defining the user stories and prioritizing them.

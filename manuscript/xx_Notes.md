@@ -15,7 +15,6 @@ Adjusting chairs for different people
 Long rotations / per task rotations
 Designated navigator and navigating the navigator. Double navigation. Seniors talk last -thing.
 The best of everyone, not the most of everyone. add info graphic about mob programming best of.
-Only one in the mob knows what to do - don't make that person drive.
 
 Steps
 1. Intention
@@ -37,7 +36,7 @@ We're always talking to the facilitator.
 
 Anti-patterns
 Newbies and experts mixing in a mob
-Cellphone practice
+
 Jumping in to navigate to introduce concepts (teaching in a mob)
 
 What if we have personalized IDEs
