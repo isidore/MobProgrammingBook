@@ -1,8 +1,12 @@
-# What is Mob Programming
+# What is Mob Programming?
 
 > *"All the brilliant people working on the same thing, at the same time, in the same space, on the same computer." -- Woody Zuill (the discoverer of Mob Programming)*
 
-Mob Programming is a style of programming in which the entire team sits together and works on a single task at a time. Teams that have worked this way have found that many of the problems that plague normal development have just melted away, possibly because communication and learning goes way up. Teams also find that the quality of their code increases, but best part of all is that teams end up happier and more cohesive.
+Mob Programming is a style of programming in which the entire team sits together and works on a single task at a time. Teams that have worked this way have found that many of the problems that plague normal development have just melted away, possibly because communication and learning goes way up. Teams also find that the quality of their code increases. They find their capacity to create increases. However, the best part of all is that teams end up happier and more cohesive.
+
+![Mob Programming](images/MobProgramming.png)
+
+In mob programming, there is a driver, who is the person at the keyboard. Many people thinks this means having five people watch one person work. This is not mob programming. In fact, mobbing has the rule that the driver is not allowed to think while at the keyboard. This means that you can't have people just watching the person type. Mobbing is about the entire team collaborating together. Having a single computer and driver allows everybody's thoughts and insights to be captured for the task at hand.
 
 ## Why would you have 5-8 people working on one thing?
 
@@ -30,7 +34,7 @@ Very often people make mistakes. Maybe we misunderstood a detail of a requiremen
 
 When we work in a mob, many of these mistakes are detected the moment they occur. Mainly because somebody on the team has that knowledge. Sometimes simply because someone on the team is willing to ask a question.
 
-There are tremendous benefits to this just-in-time knowledge. And unfortunately, the cost of the delays is mainly hidden and does not show up on anybody's accounting sheet. We believe there would be much less resistance to mob programming if the hours programmers waste because of gaps in knowledge or understanding were actually accounted for.
+There are tremendous benefits to this just-in-time knowledge. And unfortunately, the cost of the delays is mainly hidden and does not show up on anybody's accounting sheet. If the hours programmers waste because of gaps in knowledge or understanding were actually accounted for, there would be much less resistance to mob programming. 
 
 In other words, everyone thinks that five people working by themselves means that everyone is working well independently. This is rarely the case.
 

@@ -13,3 +13,6 @@ Normal text.
 
 
 > **&nbsp; *This is a key concept.* &nbsp;**  
+
+
+![Quality - Separate Programming](images/Quality - Separate Programming.png)
