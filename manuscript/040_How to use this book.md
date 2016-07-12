@@ -2,13 +2,12 @@
 
 This is a recipe book for how to create a highly functional and collaborative mob. There are two main recipes in this book.
 
-Part 1 Facilitating a new mob.
-
-Part 2 Growing a long-term mob.
+  * Facilitating a new mob
+  * Growing a long-term mob
 
 Too often, we find people altering the recipes before they know how the overall dynamics work or what purpose each ingredient provides. Here is our suggestion.
 
-The recipes are for how to work with your groups. How closely you adhere to these recipes should be connected in your experience as a mob facilitator. 
+The recipes are for how to work with your groups. How closely you adhere to these recipes should be connected in your experience as a mob facilitator.
 
 ## Beginner facilitator
 
