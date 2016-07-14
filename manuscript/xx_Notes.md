@@ -50,3 +50,4 @@ ToDo
 --> Ru's comments
 --> Going past your first mob
 --> Title case throughout the book
+--> the 'I'm too important/busy to join the mob' pattern
