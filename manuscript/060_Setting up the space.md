@@ -46,7 +46,7 @@ While you can get away with just about anything for your first mob, here are som
 
 2. **Screen**
 
-   While you usually have little control over the screen or projector, when you have a choice, try to get a bigger screen and a high-resolution projector. Remember that that code often has many more details than a regular slide presentation.
+   While you usually have little control over the screen or projector, when you have a choice, try to get a bigger screen and a high-resolution projector. Remember that the code often has many more details than a regular slide presentation.
 
 3. **Simple editor with line numbers**
 
@@ -76,5 +76,7 @@ The facilitator sits in the back and does not rotate with the rest of the mob. I
 
 In the beginning, you will be using a 4-minute timer. This is usually your phone. It should have an audible (but pleasant) sound at the end of each turn. At the end of each turn, everybody stands up and rotates to the next seat. The navigator should become the driver. The driver should join the mob.
 
+Note: Experienced mobs will use a special software instead of phones as their timer. We recommend not using this the first time people are mobbing.
+
 > **&nbsp; *Congratulations!  
-&nbsp; You are now ready to start your first mob programming session!* &nbsp;**  
+> &nbsp; You are now ready to start your first mob programming session!* &nbsp;**  

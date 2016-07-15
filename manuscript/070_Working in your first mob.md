@@ -61,7 +61,7 @@ Does this sound like the teenager actually played Scrabble last night? This is w
 
 Now you have an example that you can turn into code.  
 
-These examples should be drawn on a whiteboard and they will help everybody in the team be on the same page. The really important part here is that everyone is on the same page, working towards the same goal.
+These examples should be drawn on a whiteboard and they will help everybody in the team be on the same page. Being on the same page means that everyone is working towards the same goal.
 
 ## Consume first
 
@@ -94,7 +94,7 @@ The navigator had a plan, but unless you are in their head, you can't continue i
 **A**: *I notice that it does not compile. There is no this.x.*
 
     public int x;
-**Q**: *What do you need to next?*
+**Q**: *What do you need to next?*  
 **A**: *There's no this.y.*
 
     public int y;

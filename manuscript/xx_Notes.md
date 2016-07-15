@@ -1,3 +1,5 @@
+Section: how to write examples (or the testing circle)
+
 Leaning in to process
 Walking away
 Admitting you don't know
@@ -20,6 +22,10 @@ Steps
 1. Intention
 2. Location
 3. Keystrokes
+
+alternative: no thinking / no decisions on the keyboard
+intention / concepts
+
 
 Troubles:
   * Not having a designated navigator leaving one person to navigate all the time
