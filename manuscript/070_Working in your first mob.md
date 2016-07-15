@@ -69,8 +69,10 @@ It is extremely beneficial to use the "consume first" style of programming as op
 
 ### Build-up example
 
+```java
     public int x;
     public int y;
+```
 **Q**: *What do you need to do next?*  
 **A**: *It's almost impossible to know what to do next right now!*
 
@@ -78,26 +80,37 @@ The navigator had a plan, but unless you are in their head, you can't continue i
 
 ### Consume first example
 
+```java
     Point p = new Point(10, 20);
+```
 **Q**: *What do you need to next?*  
-**A**: *I notice that Point does not compile yet. Let's create that.*
+**A**: *I notice that Point does not compile yet. Let's create that.*  
 
+```java
     public Point(int x, int y)
     {      
     }
+```
 **Q**: *What do you need to next?*  
-**A**: *I notice that we are not holding on to the x and y.*
+**A**: *I notice that we are not holding on to the x and y.*  
 
-    this.x = x;
-    this.y = y;
+```java
+    this.x = x;  
+    this.y = y;  
+```
 **Q**: *What do you need to next?*  
-**A**: *I notice that it does not compile. There is no this.x.*
+**A**: *I notice that it does not compile. There is no this.x.*  
 
+```java
     public int x;
-**Q**: *What do you need to next?*  
-**A**: *There's no this.y.*
+```
 
+**Q**: *What do you need to next?*  
+**A**: *There's no this.y.*  
+
+```java
     public int y;
+```
 
 Because the overall picture was created and used, we were able to fill in the spaces even if the navigator changes. Also, if in the very beginning it turns out that we should have used a double (20.5 vs. 20) we would have caught it right away and changed it to a double instead of an int. These kind of mistakes and assumptions happen all the time in programming. Consume first style allows the group to catch them and come to a shared understanding.
 
@@ -105,7 +118,7 @@ Because the overall picture was created and used, we were able to fill in the sp
 
 When working as a mob, it is important to follow the **"Yes, and..."** rule of improvisational theater. The idea here is to continue with what you have. Do not to delete and undo what the previous navigators did before you. You can refactor but do not rewrite. This allows progress to be made continually and prevents people from being shut down in the group.
 
-If you follow this rule, then each step in the rotation moves us further ahead than we were before.
+If you follow this rule, then each step in the rotation moves the mob further ahead than they were before.
 
 ## Intentional code
 
@@ -132,10 +145,10 @@ If your native language isn't English, start by stating the intention in your na
 A lot of times programmers are so used to thinking in code, that you have to remind them to think in English. Here is a common example.
 
 We are trying to write the method that calculates the perimeter of the triangle.   
-**Q**: *"How do you calculate the perimeter of the triangle?"*
+**Q**: *"How do you calculate the perimeter of the triangle?"*  
 **A**: *"First we create a variable to hold the perimeter.   
 Next we iterate through the different sides and for each side we add the length to the existing perimeter.   
-Finally we return the perimeter."*
+Finally we return the perimeter."*  
 
 Notice two things. First, there is an awful lot of programming words in this English (variable, iterate, return). Second, the programmer is giving the comments for a for-loop implementation that is already in their head. This is not how a regular person would tell someone to calculate a perimeter.
 
@@ -158,7 +171,7 @@ The first measure of feedback lets you know if the group is taking too large ste
 
 Feedback helps to bring everyone in the team to the same mental space. Do not worry about the feedback always being positive. Many times seeing how something fails helps us to know what success looks like. Likewise, a different type of failure is also good feedback. It lets us know that we are making progress. Finally, even seeing failure that confirms that we are where we think we are is helpful, especially for the times when we aren't.
 
-The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to take very many small steps, while still taking too large of a task overall. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflict. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
+The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to take very many small steps, while still taking too large of a task overall. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflicts. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
 
 **&nbsp; *Be the bird, not the statue.* &nbsp;**
 
