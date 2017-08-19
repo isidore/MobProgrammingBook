@@ -10,6 +10,7 @@
 100_Strong-style pairing.md
 110_Mobbing with an audience.md
 120_When people get stuck.md
+130_Remote Mobbing.md
 200_Part2.md
 210_Building habits.md
 220_Monitoring your mob.md
@@ -19,3 +20,4 @@
 Reference_00.md
 Reference_01_Katas.md
 Reference_02_Mob Timers.md
+Reference_03_Screen Sharing Tools.md
