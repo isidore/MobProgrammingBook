@@ -16,6 +16,7 @@
 220_Monitoring your mob.md
 230_Full team engagement.md
 240_What established mobbing looks like.md
+250_Different ways to contribute.md
 
 Reference_00.md
 Reference_01_Katas.md
