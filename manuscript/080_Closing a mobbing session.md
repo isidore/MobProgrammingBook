@@ -2,9 +2,15 @@
 
 ## Learning
 
-Learning is fundamentally made up of two parts. The first part is experiences which are the fuel for learning. You need to have experiences to learn from. You've just had an experience of mobbing. This is a great opportunity to learn. Your tank is full of fuel.
+Learning is fundamentally made up of two parts. The first part is the
+experiences which are the fuel for learning. You need to have experiences to
+learn from. You've just had an experience of mobbing. This is a great
+opportunity to learn. Your tank is full of fuel.
 
-However, in and of itself, fuel is not enough to get you anywhere. You need to burn it. The way you harness the potential energy of your experiences is by retrospecting over them, thinking through them, examining them and imagining new experiments for future experiences.
+However, fuel itself is not enough to get you anywhere. You need to burn
+it. The way you harness the potential energy of your experiences is by
+retrospecting over them, thinking through them, examining them and imagining new
+experiments for future experiences.
 
 When we finish a mobbing session, we will run a retrospective to help us learn all we can from the session. There are many ways of running a retrospective. We are going to show you the most common way that we use.  
 
@@ -37,7 +43,8 @@ You might notice a few things that are different. And you might think the things
 Look at this picture.   
 ![Moving illusion](images/Moving_illusion.png)
 
-As you look at the picture, you might notice it moving or that it's spiraling. It is doing neither. However, while many people think of our eyes as cameras and our ears as microphones, what we experience as sight and sound is really put together in the visual and auditory cortexes of our brains. And this is a lot more akin to photoshop.
+As you look at the picture, you might notice it moving or that it's spiraling.
+It is doing neither. However, while many people think of our eyes as cameras and our ears as microphones, what we experience as sight and sound is really put together in the visual and auditory cortexes of our brains. And this is a lot more akin to photoshop.
 
 Our expectations and biases mean that we see and hear things that might not have ever happened. One reason we collect observations is to get the things that happened in front of our eyes that we missed. Another reason is to dispel illusions that we think happened but never did.
 
@@ -56,7 +63,12 @@ On our list of cognitive biases is rationalization. There are many simple things
 How do you write sticky notes is one such simple task that often falls prey for this rationalization. Here's what you need to know.   
 ![Sticky notes](images/4_rules_of_sticky_notes.png)
 
-While each of these rules is simple, notice that when taken together the green side is much easier to read than the orange side. And because humans engage in fight or flight responses, most people, when faced with the challenge of reading the orange side, instead choose to skim over or zone out. Following these four simple rules helps to ensure that the mobs observations get read. A good example of overwhelming information is:
+While each of these rules is simple, notice that when taken together the green
+side is much easier to read than the orange side. And because humans engage in
+fight or flight responses, most people, when faced with the challenge of reading
+the orange side, instead choose to skim over or zone out. Following these four
+simple rules helps to ensure that the mob's observations get read. A good
+example of overwhelming information is:
 
 > Lazy person fact #6543671283  
 You were too lazy to read that number
@@ -65,9 +77,17 @@ For sticky notes, it is also important to have good markers to write with. We su
 
 ## Part 2: Collecting observations
 
-When you ask for observations, if you just say *"give me any observations"*, then people get overwhelmed by the vastness of possibilities. Instead, you want to highlight the different areas that observations can come from. Think of this as a spotlight pointing out the different corners so that people will give you a greater quantity and variety of observations. For example, try saying something like:  
+When you ask for observations, if you just say *"give me any observations,"*
+then people get overwhelmed by the vastness of possibilities. Instead, you want
+to highlight the different areas that observations can come from. Think of this
+as a spotlight pointing out the different corners so that people will give you a
+greater quantity and variety of observations. For example, try saying something
+like:
 
- *"Any observations are valid. You can have observations about syntax of the language, the code we used, the IDE and tooling, how we worked as a group, emotions you felt, worries or concerns about the feature, things you liked or disliked. Or things that surprised you about today."*
+*"Any observation is valid. You can have observations about the syntax of the
+language, the code we used, the IDE and tooling, how we worked as a group,
+emotions you felt, worries or concerns about the feature, things you liked or
+disliked. Or things that surprised you about today."*
 
 After you ask for observations, you want to give enough time for everyone to write them down. I usually try to count to twenty in my head after I have heard the last person stop writing, just to make sure we got everything.
 
@@ -81,7 +101,7 @@ Here are a couple of key things to remember.
 
   * Use your whole space on the whiteboard or wall.  
 
-  * If you do not have enough space for the amount of stickies, don't worry. Just read them out loud and don't worry about the groupings.  
+  * If you do not have enough space for the number of stickies, don't worry. Just read them out loud and don't worry about the groupings.  
 
   * If there is any confusion, this is the time to ask for clarification.  
 
@@ -97,7 +117,10 @@ The entire observation period should take 15 minutes on average. It is important
 
 If you are mobbing for a full day, we recommend two observations retrospectives, one before lunch and one at the end of the day.
 
-When retrospectives are frequent and short, the outcomes from them are small. But those small outcomes are usually acted upon and problems can be nipped in the bud. When they are long and infrequent, you get big outcomes that are largely ignored.
+When retrospectives are frequent and short, the outcomes from them are small.
+But those small outcomes are usually acted upon, and problems can be nipped in
+the bud. When they are long and infrequent, you get big outcomes that are
+largely ignored.
 
 In your first retrospectives, don't expect a lot of observations. Like everything else, it takes time to build the habit of noticing what is going on. Part of the reason to do regular retrospectives, is to build the metacognition abilities of your team. Once those are built, you might notice people making observations while the mobbing is happening and even writing them down. At this point you might be tempted to abandon the retrospective all together, as it is no longer needed. Don't. If you do, you have to rebuild that skill up after a couple of weeks when the habit fades away.
 

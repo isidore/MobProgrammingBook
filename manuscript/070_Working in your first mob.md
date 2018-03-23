@@ -4,14 +4,18 @@
 
 ## Is the mob working?
 
-Heuristic: If everything is going right, rotation will not disrupt the flow of the mob.
+Heuristic: If everything is going right, rotation will not disrupt the flow
+ of the mob.
 
 
 ## Preparing the navigator
 
-Part of having a good mobbing experience is being able to have a clear direction that is shared throughout the team. A few little tricks can be done to enable this to happen as it is not a habit most people have acquired yet.
+Part of having a good mobbing experience is being able to have a clear direction 
+that is shared throughout the team. A few little tricks can be done to enable 
+this to happen as it is not a habit most people have acquired yet.
 
-Ask the navigator what they are going to do. Here's some examples of when a navigator has a clear direction versus when they are lost.
+Ask the navigator what they are going to do. Here are some examples of when a
+navigator has a clear direction versus when they are lost.
 
 Lost:
 
@@ -61,11 +65,16 @@ Does this sound like the teenager actually played Scrabble last night? This is w
 
 Now you have an example that you can turn into code.  
 
-These examples should be drawn on a whiteboard and they will help everybody in the team be on the same page. Being on the same page means that everyone is working towards the same goal.
+These examples should be drawn on a whiteboard, and they will help everybody in
+the team be on the same page. Being on the same page means that everyone is
+working towards the same goal.
 
 ## Consume first
 
-It is extremely beneficial to use the "consume first" style of programming as opposed to the more common "build-up" style of programming. This allows the group to have a clear idea on where we are going and what is needed. Let's look at two examples to show how this works.
+It is extremely beneficial to use the "consume first" style of programming as
+opposed to the more common "build-up" style of programming. This allows the
+group to have a clear idea of where they are going and what is needed. Let's
+look at two examples to show us how this works.
 
 ### Build-up example
 
@@ -76,9 +85,10 @@ It is extremely beneficial to use the "consume first" style of programming as op
 **Q**: *What do you need to do next?*  
 **A**: *It's almost impossible to know what to do next right now!*
 
-The navigator had a plan, but unless you are in their head, you can't continue it on. And it is hard to check that what they were doing is correct.
+The navigator had a plan, but unless you are in their head, you can't continue
+with it. And it is hard to check if what they were doing is correct.
 
-### Consume first example
+### Consume-first example
 
 ```java
     Point p = new Point(10, 20);
@@ -112,7 +122,12 @@ The navigator had a plan, but unless you are in their head, you can't continue i
     public int y;
 ```
 
-Because the overall picture was created and used, we were able to fill in the spaces even if the navigator changes. Also, if in the very beginning it turns out that we should have used a double (20.5 vs. 20) we would have caught it right away and changed it to a double instead of an int. These kind of mistakes and assumptions happen all the time in programming. Consume first style allows the group to catch them and come to a shared understanding.
+Because the overall picture was created and used, we were able to fill in the
+spaces even if the navigator changes. Also, if in the very beginning it turns
+out that we should have used a double (20.5 vs. 20) we would have caught it
+right away and changed it to a double instead of an int. This kind of mistakes
+and assumptions happen all the time in programming. The consume first style
+allows the group to catch them and come to a shared understanding.
 
 ## Yes, and...
 
@@ -146,9 +161,10 @@ A lot of times programmers are so used to thinking in code, that you have to rem
 
 We are trying to write the method that calculates the perimeter of the triangle.   
 **Q**: *"How do you calculate the perimeter of the triangle?"*  
-**A**: *"First we create a variable to hold the perimeter.   
-Next we iterate through the different sides and for each side we add the length to the existing perimeter.   
-Finally we return the perimeter."*  
+**A**: *"First we create a variable to hold the perimeter.*  
+*Next, we iterate through the different sides and for each side we add the
+length to the existing perimeter.*  
+*Finally, we return the perimeter."*
 
 Notice two things. First, there is an awful lot of programming words in this English (variable, iterate, return). Second, the programmer is giving the comments for a for-loop implementation that is already in their head. This is not how a regular person would tell someone to calculate a perimeter.
 
@@ -171,7 +187,16 @@ The first measure of feedback lets you know if the group is taking too large ste
 
 Feedback helps to bring everyone in the team to the same mental space. Do not worry about the feedback always being positive. Many times seeing how something fails helps us to know what success looks like. Likewise, a different type of failure is also good feedback. It lets us know that we are making progress. Finally, even seeing failure that confirms that we are where we think we are is helpful, especially for the times when we aren't.
 
-The second measure of feedback is how long since you committed code to your repository. This has to do with how large of a task you are taking at a time as opposed to making progress within a task. It is possible to take very many small steps, while still taking too large of a task overall. Not being able to check in frequently has other negative side effects as well. If you cannot check in frequently, it can be hard to quit when you need to (lunch, end of workday, etc.). Large changes between commits can also make it hard to work with other teams because of merge conflicts. If you are checking in frequently, you will not experience merge conflicts - however, other teams might. One saying that emphasizes this is:
+The second measure of feedback is how long since you committed code to your
+repository. This has to do with how large of a task you are taking at a time as
+opposed to making progress within a task. It is possible to take very many small
+steps, while still taking too large of a task overall. Not being able to check
+in frequently has other negative side effects as well. If you cannot check in
+frequently, it can be hard to quit when you need to (lunch, end of the workday,
+etc.). Large changes between commits can also make it hard to work with other
+teams because of merge conflicts. If you are checking in frequently, you will
+not experience merge conflicts - however, other teams might. One saying that
+emphasizes this is:
 
 **&nbsp; *Be the bird, not the statue.* &nbsp;**
 
@@ -179,9 +204,9 @@ The second measure of feedback is how long since you committed code to your repo
 
 It is useful to post the following rule on the wall as well as get a general working agreement from the mob.
 
-**&nbsp; *We will treat everyone with kindness, consideration and respect.* &nbsp;**
+**&nbsp; *We will treat everyone with kindness, consideration, and respect.* &nbsp;**
 
-One interesting aspect of treating each other with kindness, consideration and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking, rather than the other way around.
+One interesting aspect of treating each other with kindness, consideration, and respect is that it tends to make everyone in the mob treat each other better and like each other more. Ironically, cognitive science teaches us that the people we treat kindly we end up liking, rather than the other way around.
 
 Kindness is rather self-explanatory, but consideration and respect are worth going into.
 
@@ -189,11 +214,17 @@ Kindness is rather self-explanatory, but consideration and respect are worth goi
 
 Consideration is really about listening. This is something we don't get a lot of practice with because of the focus on individual contributions. The place it is going to show up the most is at the driver seat. Often the driver will start by not listening to the navigator.
 
-The facilitator can usually fix this by simply saying "No thinking at the keyboard" or "There's too much thinking going on at the keyboard".
+The facilitator can usually fix this by simply saying "No thinking at the
+keyboard" or "There's too much thinking going on at the keyboard."
 
-Another way that this will manifest itself is that good ideas will be spoken by members of the mob and utterly ignored. Usually these ideas are softly spoken by more introverted members. As a facilitator, it is your job to call attention to those ideas and make sure that everyone gets heard.
+Another way that this will manifest itself is that good ideas will be spoken by
+members of the mob and will be totally ignored. Usually, these ideas are
+softly spoken by more introverted members. As a facilitator, it is your job to
+call attention to those ideas and make sure that everyone gets heard.
 
-Over time the mob will learn the habits of listening to everyone and people will find their spots to contribute. As we gain experience being heard we will also change how we speak.
+Over time the mob will learn the habits of listening to everyone and people will
+find their spots to contribute. As we gain the experience of being heard, we
+will also change how we speak.
 
 Another aspect to consideration is to remember to allow other people to shine. You don't always need to be showing how much you know. And if someone has a differing way of doing it, try their way first and then consider if your idea would make it better. It's ok to try a solution in multiple ways.
 
@@ -203,4 +234,11 @@ One final violation of consideration is when members who are not in either the d
 
 > **&nbsp; *We always assume that the person who wrote the code before us did the best they could with the knowledge and circumstances they were in at the time they wrote it.* &nbsp;**
 
-Nothing is more corrosive than disrespect in a mob. A group can bond over making fun of some code that was written by someone else but you will pay a high price for that bonding when everybody is nervous that some day it might be them that everybody is ridiculing. We want to create a space that is safe. Safe to experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses. Safe to look at and improve code without judging and criticizing the author. Remember that mob programming exposes a lot about everybody involved and we need to be safe and supported.
+Nothing is more corrosive than disrespect in a mob. A group can bond over making
+fun of some code that was written by someone else, but you will pay a high price
+for that bonding when everybody is nervous that someday it might be them that
+everybody is ridiculing. We want to create a space that is safe. Safe to
+experiment. Safe to learn. Safe to show your vulnerabilities and weaknesses.
+Safe to look at and improve code without judging and criticizing the author.
+Remember that mob programming exposes a lot about everybody involved, and we
+need to be safe and supported.
