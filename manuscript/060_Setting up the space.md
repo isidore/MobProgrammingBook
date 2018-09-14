@@ -1,5 +1,4 @@
-Setting Up The Space
-====================
+# Setting Up The Space
 
 For your first time doing mob programming, you do not need to worry too much
 about the space. We're going to lay out just the most critical things that are
@@ -13,8 +12,7 @@ Basic Setup
 
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
 
-The Screen
-----------
+## The Screen
 
 The screen, projector or TV should be visible and clear to everybody in the mob.
 The chairs should be facing forward towards the screen as much as possible.
@@ -25,8 +23,7 @@ people are uncomfortable with this, it's not a big deal.
 
 It is also important to have a whiteboard where the navigator can express ideas.
 
-The Facilitator
----------------
+## The Facilitator
 
 As you are reading this book, you will most likely be the facilitator. The
 important fact to note is that mob programming works much better in the
@@ -38,8 +35,7 @@ into the navigator role. You do not need to be a good programmer or even a
 programmer at all to be a good facilitator. This is not a team lead position.
 When everything is going well, you will be doing nothing at all.
 
-The Work
---------
+## The Work
 
 The first question is always: "What are we going to work on?" While there are
 many answers to this question, whatever you decide to work on, it should be
@@ -49,12 +45,12 @@ learned to work together, it's a good time to tackle the hard tasks.
 
 There are three common items to work on as your first task.
 
-1.  **Simple work task**
+**Simple work task**
 
 If you have a simple task to do, this can be a perfect place to start. Just do
 it as a mob.
 
-2.  **Refactoring large methods**
+**Refactoring large methods**
 
 Many teams have code that is hard to read and understand. A refactoring for
 readability exercise makes a great first experience in mobbing. Simply choose a
@@ -64,34 +60,34 @@ extraction of paragraphs of code and giving them better names. The only two
 refactorings we suggest are **extract method** and **rename**. We also suggest that
 you frequently commit, usually after each paragraph.
 
-3.  **Programming Katas**
+**Programming Katas**
 
 Katas are simple exercises that are used to practice programming. The more
 common ones include FizzBuzz, Roman Numerals, and Tic-Tac-Toe. For more Katas,
 check the reference in the back. However, any problem usually makes a good Kata.
 These are often done in the test-first style of programming.
 
-The Computer
-------------
+## The Computer
+
 
 While you can get away with just about anything for your first mob, here are
 some tips to make things easier.
 
-1.  **Keyboard and mouse**
+**Keyboard and mouse**
 
 Having an external keyboard and mouse just makes everything simpler for the
 driver. An external keyboard and mouse can also allow you to close the laptop,
 which is even better because then everybody is looking at the same the screen.
 This allows the driver to cue off of people pointing to the screen.
 
-2.  **Screen**
+**Screen**
 
 While you usually have little control over the screen or projector, when you
 have a choice, try to get a bigger screen and a high-resolution projector.
 Remember that the code often has many more details than a regular slide
 presentation.
 
-3.  **Simple editor with line numbers**
+**Simple editor with line numbers**
 
 Line numbers make it easy to talk about where your focus is at. Editors that
 allow for simple typing and scrolling make it easier for everybody to track what
@@ -100,8 +96,7 @@ if not configured in the way each individual member of the team normally uses
 them. Finally, make sure the font size is big enough so that everyone can easily
 read it.
 
-Seating and roles
------------------
+## Seating and roles
 
 ### The Driver
 
@@ -118,7 +113,8 @@ to do. They should be talking about a task in the highest level of abstraction
 possible. However, in the beginning, this is often at the level of keystrokes
 and simple programming structures.
 
-We will go into this more in the chapter on **Strong-Style Pairing**.
+We will go into this more in the chapter on **Strong-Style Pairing** and add more details with chapters on
+**Driver - things to do** and **Navigator - things to do**.
 
 ### The Mob
 
@@ -132,8 +128,7 @@ The facilitator sits in the back and does not rotate with the rest of the mob.
 If it is necessary for them to step in, they can pause the mob and assume
 whatever role is needed, except that of the driver.
 
-The Rotation
-------------
+## The Rotation
 
 In the beginning, you will be using a 4-minute timer. This is usually your
 phone. It should have an audible (but pleasant) sound at the end of each turn.

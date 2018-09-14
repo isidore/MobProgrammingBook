@@ -57,3 +57,44 @@ ToDo
 --> Going past your first mob
 --> Title case throughout the book
 --> the 'I'm too important/busy to join the mob' pattern
+
+
+
+---
+Notes from Different ways to contribute.
+caretaking
+empathy in the mob
+empathy for customer
+patience
+contiuos
+noticing feelings
+
+allow space - not talking
+- Yield to the less privileged voice
+- Contribute an idea
+- enthuthiatisic Listen
+- Amplify voices
+
+ Celebrate moments of excellence
+  Celebrate moments of failure
+
+getting the mob needs to learn together
+
+drive toward action
+clarifying
+
+expander
+
+reconization
+
+housekeeper
+tracking todo's
+questions
+
+long term growth
+- automation task
+- removing repeated pain
+-
+
+raising the bar
+noticing the bar

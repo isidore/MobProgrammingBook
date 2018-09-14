@@ -42,32 +42,9 @@ We're building things for people yet often we see ourselves as separate from our
 
 ## Noticing feelings
 
-Feeling alone is easy even in a mob. We're also in an industry that wants us to suppress our feelings. Having someone acknowledge and support how you are feeling and doing the emotional labor with you can turn a bad day around. 
+Feeling alone is easy even in a mob. We're also in an industry that wants us to suppress our feelings. Having someone acknowledge and support how you are feeling and doing the emotional labor with you can turn a bad day around.
 
-caretaking
-empathy in the mob
-empathy for customer
-patience
-contiuos
-noticing feelings
 
-allow space - not talking
-- Yield to the less privileged voice
-- Contribute an idea
-- enthuthiatisic Listen
-- Amplify voices
-
- Celebrate moments of excellence
-  Celebrate moments of failure
-
-getting the mob needs to learn together
-
-drive toward action
-clarifying
-
-expander
-
-reconization
 
 
 

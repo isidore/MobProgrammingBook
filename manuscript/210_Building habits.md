@@ -2,7 +2,7 @@
 
 Now that you´ve gotten started with your first mob, the most important thing is to keep going. As the saying goes: "The best exercise is the one you do". As a coach or facilitator, you are trying to build habits. Habits take time and repetition to form. As such, there are many good intentions, that get in the way of forming habits. Heres what we´ve learned to avoid and nurture.
 
-## End happy
+## End while happy
 
 No matter how good a workout may be, if you are exhausted, you don´t want to show up the next day. One of your primary goals as a facilitator should be to end while you´re still happy so that everyone wants to show up tomorrow. Try to limit sessions to two hours in the beginning for this reason. Also be very careful about running overtime, especially when overtime means staying late after work or missing lunch. You don´t want anyone saying "oh great, we´re mobbing again. I´m going to be late picking up my kids".
 
@@ -18,4 +18,4 @@ Too often people feel stressed and overburdened. Because of this, they don´t al
 
 ## Timing
 
-A lot of time people will try out new things like mobbing saying "let´s try it every other week for a few hours". It is very hard to build any habits doing something only twice a month. If you are going to spend 8 hours mobbing, it is better to spend 1 hour over 8 days than 8 hours on one day. Also remember that rest is a very important factor. You want to have a little bit of learning, a little bit of rest. 
+A lot of time people will try out new things like mobbing saying "let´s try it every other week for a few hours". It is very hard to build any habits doing something only twice a month. If you are going to spend 8 hours mobbing, it is better to spend 1 hour over 8 days than 8 hours on one day. Also remember that rest is a very important factor. You want to have a little bit of learning, a little bit of rest.
