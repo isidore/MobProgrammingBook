@@ -17,7 +17,7 @@
 230_Full team engagement.md
 240_What established mobbing looks like.md
 250_Different ways to contribute.md
-160_Attribution for work done in a mob.md
+260_Attribution for work done in a mob.md
 
 Reference_00.md
 Reference_01_Katas.md
