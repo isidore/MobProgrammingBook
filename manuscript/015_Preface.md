@@ -12,4 +12,4 @@ And even the most seasoned warriors amongst us have more to learn. Not only from
 
 In programming, we find the work we need to do as we do the work and our assumptions unfold into realities. Getting the best out of everyone into the work we are doing is worthwhile, enables learning and streamlines the results.
 
-Enjoy mob programming guidebook. Try it out and make it your own. 
+Enjoy mob programming guidebook. Try mobbing out and make it your own. 
