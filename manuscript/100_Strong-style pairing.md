@@ -1,13 +1,18 @@
 # Strong-Style Pairing
 
-An important aspect of mobbing is manner in which the driver and navigator(s) work together and split roles. This style of collaboration comes from Strong-style pair programming as discovered by Llewellyn Falco.
+An important aspect of mobbing is the manner in which the driver and navigator(s) work together and split work. This style of collaboration comes from Strong-style pairing.
 
-The basic idea is:
+In a pair, we have a driver and a navigator. Think of these roles as they are in driving rally. The driver is hands on the wheel, and in control of paying attention to the immediate task at hand. They are busy looking at the road ahead, optimizing the drive and not checking the map. Checking the map would be a distraction. That is where the navigator jumps in. Keeping track of goals on a larger scale, paying attention to other level of details they can help significantly in getting to better results. Navigator takes care of directions and instructions, and feeding them to the driver as needed.
 
-> **&nbsp; *For an idea to go from your head to the computer, it must go through someone else's hands.* &nbsp;**  
+This same distribution of tasks is what is the core of strong-style pairing. Instead of making the navigator decipher what is going on in the drivers head, the control is placed with the navigator. For strong-style pairing, we say:
 
+**“I have an idea, you take the keyboard”.**
 
-While programmers have years of practice taking an idea from their head to the computer through their fingers, most programmers have little to no practice articulating their thoughts so that another person can understand them.
+For traditional pairing, we’d say: “I have an idea, give me the keyboard”.
+
+The strong-style pairing style is the foundation of how navigator(s) communicate to the driver in a mob.
+
+While people have years of practice taking an idea from their head to the computer through their fingers, most people have little to no practice articulating their thoughts so that another person can understand them.
 
 Here are some tips and exercises to help develop the skill.
 
