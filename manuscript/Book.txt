@@ -13,6 +13,8 @@
 120_When people get stuck.md
 130_Remote Mobbing.md
 200_Part2.md
+202_Driver things to do.md
+203_Navigator things to do.md
 210_Building habits.md
 220_Monitoring your mob.md
 230_Full team engagement.md

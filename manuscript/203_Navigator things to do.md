@@ -11,6 +11,7 @@ You’re creating the driver the box they work in on as high abstraction level a
 ## Mine the to-do-list.
 
 Create an idea on where to go next. You might be just one step ahead, but being that one step ahead is important. Where to go to get your thing done?
+
 ## Observe your driver.
 
 See where they are and where they are going, and correct if the direction does not match what you had in mind. Pay attention on how they are doing, and help them whenever they need it.
