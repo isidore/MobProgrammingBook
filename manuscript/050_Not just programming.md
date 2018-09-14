@@ -1,5 +1,4 @@
-Not Just Programming
-====================
+# Not Just Programming
 
 A lot of times because the term Mob Programming includes the word programming,
 people wrongly assume that it is about programming. It is actually about the

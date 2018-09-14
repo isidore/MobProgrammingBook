@@ -52,7 +52,7 @@ Our expectations and biases mean that we see and hear things that might not have
 
 (We usually show this video: youtube search: assumptions)  
 Here's another picture.  
-![Forced perspective](images/forced_perpective.jpg)
+![Forced perspective](images/forced_perspective.jpg)
 
 What you are seeing is a trick called forced perspective. When you only have one viewpoint, it is easy to be mislead. Everybody is vulnerable to this because everybody experiences things from a single perspective. But we have multiple perspectives in the room when we mob. By taking collective observations, we reduce the chance of being fooled by a single perspective and get a better understanding of the full reality.
 
