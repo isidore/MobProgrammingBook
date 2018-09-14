@@ -6,6 +6,6 @@ mobbing. You can have mob programming, mob testing, mob designing, mob writing,
 mob anything. A lot of times we just refer to this under the generic term
 mobbing. In this book, however, we will often use the term mob programming to be
 distinctive to the method. Please do not limit this process to programming and
-feel free to substitute whichever word you desire for programming.
+feel free to substitute which ever word you desire for programming.
 
 TL;DR: It's really **Mob** _______ (insert activity) _______
