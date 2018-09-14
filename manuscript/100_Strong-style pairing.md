@@ -14,6 +14,8 @@ The strong-style pairing style is the foundation of how navigator(s) communicate
 
 While people have years of practice taking an idea from their head to the computer through their fingers, most people have little to no practice articulating their thoughts so that another person can understand them.
 
+When the driver has an idea, the roles can be switched keeping a basic rule in mind: for an idea to get on the computer, it must go through someone else’s hands.
+
 Here are some tips and exercises to help develop the skill.
 
 ## Basic navigation flow
