@@ -43,19 +43,3 @@ We're building things for people yet often we see ourselves as separate from our
 ## Noticing feelings
 
 Feeling alone is easy even in a mob. We're also in an industry that wants us to suppress our feelings. Having someone acknowledge and support how you are feeling and doing the emotional labor with you can turn a bad day around.
-
-
-
-
-
-housekeeper
-tracking todo's
-questions
-
-long term growth
-- automation task
-- removing repeated pain
--
-
-raising the bar
-noticing the bar
