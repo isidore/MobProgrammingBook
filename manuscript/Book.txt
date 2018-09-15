@@ -26,3 +26,4 @@ Reference_00.md
 Reference_01_Katas.md
 Reference_02_Mob Timers.md
 Reference_03_Screen Sharing Tools.md
+Reference_05_Good articles.md
