@@ -23,19 +23,19 @@ When you are mobbing, you want everyone to get several times times on a computer
 
 The next question is how much time do you have? If you are doing an all day training, 1 1/2 hours cycle time is fine. Everyone will still get 4-5 chances at the keyboard. If you are doing a 1 1/2 hour conference session, you need a smaller mob.
 
+Using a short rotation time has also other benefits with new groups: it enforces group to work together faster as no one can try completing a task in the time they sit in front of a keyboard.
+
 ### Event Based Rotation
 
-Training and conferences also mean that you may be doing work that is a little more understood by the facilitator. This offers the opportunity to rotate on something other than time. When event-based rotation keeps you within an average of four minute rotation time, I prefer it as a method of rotation. It is satisfying to rotate on accomplishment.
+Training and conferences also mean that you may be doing work that is a little more understood by the facilitator. This offers the opportunity to rotate on something other than time. When event-based rotation keeps you within an average of four minute rotation time, you can prefer it as a method of rotation. It is satisfying to rotate on accomplishment.
 
-Here are some events that I will use for rotation:
+Here are some events you can use for rotation:
 
    1. Unit test is written
    2. Unit test is passing
    3. Small task is completed
    4. Single line of code is written
    5. Story (example) is written on a board
-
-> When teaching kids in Africa, we had 30 students on a single computer. We rotated on single line of code written. This allowed everyone to get a couple chances at the computer, even in a short two hour session.
 
 ## Audience
 
@@ -46,7 +46,7 @@ Sometimes scaling the mob doesn't work or give the experience you want for the s
 To the main part, this works the same part as a regular mob, with a couple extra rules.
 
   1. People can join or leave the mob at will.
-  2. When joining, sit right behind the driver.
+  2. When joining, sit where driver would go next - last to be on the keyboard.
   3. The audience can also volunteer insights and information to the navigator.
   4. Audience participates in retrospectives.
 
