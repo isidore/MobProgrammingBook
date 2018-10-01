@@ -96,6 +96,14 @@ if not configured in the way each individual member of the team normally uses
 them. Finally, make sure the font size is big enough so that everyone can easily
 read it.
 
+**Hygiene**
+
+You will want to visible clean up the shared keyboard with a hand sanitizer and
+hand a travel version to people participating in the mob as part of setting up
+the computer. Some facilitators live their travelling life with their laptops and
+sharing a device as well as local proximity with a group of people may lead you
+to want to be on the safer side with regards to hygiene.
+
 ## Seating and roles
 
 ### The Driver
