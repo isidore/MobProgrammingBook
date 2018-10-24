@@ -1,3 +1,6 @@
+Add somewhere the idea of having shorter rotation when folks ask for longer one. 
+
+
 Section: how to write examples (or the testing circle)
 
 Leaning in to process
