@@ -1,5 +1,10 @@
-Add somewhere the idea of having shorter rotation when folks ask for longer one. 
+Add somewhere the idea of having shorter rotation when folks ask for longer one.
 
+
+Rotation
+on timer
+on task
+Some teams switch when the driver doesn’t want to drive anymore, or someone else would like to drive.
 
 Section: how to write examples (or the testing circle)
 

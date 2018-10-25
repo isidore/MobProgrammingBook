@@ -64,3 +64,7 @@ If you need to express what you’re doing, you should learn to express that in 
 ## Immediate feedback
 
 When you navigate, keep an eye on your driver. Double-check with questions what the driver does. And if the driver does something you consider a problem, help them correct it right away. Feedback belongs with the action the feedback relates to.
+
+## Initiate role switch on volunteering
+
+When someone feels like they'd like to move from navigating to driving, initiate a role switch. You can switch on time or task, but also on how people feel.

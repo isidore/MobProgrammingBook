@@ -6,7 +6,7 @@ Creating a book takes a lot of persistence and support from early adopters like 
 
 Thank you.
 
-This book started off with an idea of strong-style pair writing. For every idea we would want to write down, there would be another person reviewing and improving the idea as it flowed through second person on the keyboard. The first partial versions of the book were created this way, Llewellyn Falco contributing with me. Thank you Llewellyn for your contributions that helped me shape the idea of the book. The book grew beyond as as a pair, and your role turned into a visitor in a mob. Readers of the book should know that you've helped shape the beginnings of the book. I appreciate your contributions, getting the best out of people into the work we were doing. Your contributions as were important, perhaps even critical, to what happened - even with the book taking a different turn without you. 
+This book started off with an idea of strong-style pair writing. For every idea we would want to write down, there would be another person reviewing and improving the idea as it flowed through other person on the keyboard. The first partial versions of the book were created this way, Llewellyn Falco contributing with me. Thank you Llewellyn for your contributions that helped me shape the idea of the book. The book grew beyond as as a pair, and your role turned into a visitor in a mob. Readers of the book should know that you've helped shape the beginnings of the book. I appreciate your contributions, getting the best out of people into the work we were doing. Your contributions as were important, perhaps even critical, to what happened - even with the book taking a different turn without you. 
 
 
 Maaret Pyh&auml;j&auml;rvi
