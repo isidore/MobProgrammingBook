@@ -17,6 +17,6 @@ Windows
 Hard UI; Full-screen forces rotation
 
 ![Agility web-based Mob Timer](images/MobTimer - Agility.Overview.png)
-http://oss.jahed.io/agility/timer.html  
+https://agility.jahed.dev/  
 Web-based, no install needed  
 Can't see while programming
